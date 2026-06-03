@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-03T14:22:54Z",
+  "generatedAt": "2026-06-03T14:56:32Z",
   "count": 133,
   "freebies": [
     {
@@ -3611,7 +3611,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/4109996/pexels-photo-4109996.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://images.pexels.com/photos/8081574/pexels-photo-8081574.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "taco-bell-birthday-reward",
@@ -3641,7 +3641,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/8230099/pexels-photo-8230099.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://images.pexels.com/photos/18574186/pexels-photo-18574186.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "olive-garden-birthday-dessert",
@@ -3671,7 +3671,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/14755944/pexels-photo-14755944.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://images.pexels.com/photos/6147818/pexels-photo-6147818.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "sonic-birthday-reward",
@@ -3702,7 +3702,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/2271107/pexels-photo-2271107.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://images.pexels.com/photos/34711204/pexels-photo-34711204.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "burger-king-birthday-reward",
@@ -3761,7 +3761,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/6213127/pexels-photo-6213127.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://images.pexels.com/photos/9629685/pexels-photo-9629685.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "pink-birthday-reward",
