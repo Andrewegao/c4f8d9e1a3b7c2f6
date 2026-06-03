@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-03T14:56:32Z",
+  "generatedAt": "2026-06-03T20:49:46Z",
   "count": 133,
   "freebies": [
     {
@@ -12,7 +12,7 @@
         "id": "sephora",
         "name": "Sephora",
         "color": "#000000",
-        "logoUrl": "https://img.logo.dev/sephora.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/sephora.png"
       },
       "valueCents": 2500,
       "birthday": {
@@ -33,7 +33,7 @@
       "claimType": "signup",
       "isEditorsPick": true,
       "editorsPickRank": 1,
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/09/13/16/08/cosmetics-2746013_1280.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/sephora-beauty-insider-birthday.jpg"
     },
     {
       "id": "build-a-bear-count-your-candles",
@@ -44,7 +44,7 @@
         "id": "build-a-bear",
         "name": "Build-A-Bear",
         "color": "#E4002B",
-        "logoUrl": "https://img.logo.dev/buildabear.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/build-a-bear.png"
       },
       "valueCents": 2500,
       "birthday": {
@@ -65,7 +65,7 @@
       "claimType": "birthday",
       "isEditorsPick": true,
       "editorsPickRank": 2,
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/11/09/21/44/teddy-bear-524251_1280.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/build-a-bear-count-your-candles.jpg"
     },
     {
       "id": "starbucks-birthday-drink",
@@ -76,7 +76,7 @@
         "id": "starbucks",
         "name": "Starbucks",
         "color": "#00704A",
-        "logoUrl": "https://img.logo.dev/starbucks.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/starbucks.png"
       },
       "valueCents": 650,
       "birthday": {
@@ -97,7 +97,7 @@
       "claimType": "app",
       "isEditorsPick": true,
       "editorsPickRank": 3,
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/03/27/14/18/coffee-2179028_1280.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/starbucks-birthday-drink.jpg"
     },
     {
       "id": "cheesecake-factory-birthday-slice",
@@ -108,7 +108,7 @@
         "id": "cheesecake-factory",
         "name": "The Cheesecake Factory",
         "color": "#763F2A",
-        "logoUrl": "https://img.logo.dev/thecheesecakefactory.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/cheesecake-factory.png"
       },
       "valueCents": 1095,
       "birthday": {
@@ -129,7 +129,7 @@
       "claimType": "signup",
       "isEditorsPick": true,
       "editorsPickRank": 5,
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/08/08/16/20/cheesecake-1578691_1280.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/cheesecake-factory-birthday-slice.jpg"
     },
     {
       "id": "krispy-kreme-birthday-doughnuts",
@@ -140,7 +140,7 @@
         "id": "krispy-kreme",
         "name": "Krispy Kreme",
         "color": "#006341",
-        "logoUrl": "https://img.logo.dev/krispykreme.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/krispy-kreme.png"
       },
       "valueCents": 400,
       "birthday": {
@@ -161,7 +161,7 @@
       "claimType": "app",
       "isEditorsPick": true,
       "editorsPickRank": 6,
-      "imageUrl": "https://images.pexels.com/photos/30822876/pexels-photo-30822876.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/krispy-kreme-birthday-doughnuts.jpg"
     },
     {
       "id": "dunkin-birthday-3x-points",
@@ -172,7 +172,7 @@
         "id": "dunkin",
         "name": "Dunkin'",
         "color": "#FF671F",
-        "logoUrl": "https://img.logo.dev/dunkindonuts.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/dunkin.png"
       },
       "valueCents": 400,
       "birthday": {
@@ -191,7 +191,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/17230068/pexels-photo-17230068.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/dunkin-birthday-3x-points.jpg"
     },
     {
       "id": "auntie-annes-birthday-pretzel",
@@ -202,7 +202,7 @@
         "id": "auntie-annes",
         "name": "Auntie Anne's",
         "color": "#00529B",
-        "logoUrl": "https://img.logo.dev/auntieannes.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/auntie-annes.png"
       },
       "valueCents": 550,
       "birthday": {
@@ -221,7 +221,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/23692948/pexels-photo-23692948.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/auntie-annes-birthday-pretzel.jpg"
     },
     {
       "id": "wetzels-birthday-pretzel",
@@ -232,7 +232,7 @@
         "id": "wetzels",
         "name": "Wetzel's Pretzels",
         "color": "#E4002B",
-        "logoUrl": "https://img.logo.dev/wetzels.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/wetzels.png"
       },
       "valueCents": 550,
       "birthday": {
@@ -251,7 +251,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/4651969/pexels-photo-4651969.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/wetzels-birthday-pretzel.jpg"
     },
     {
       "id": "caribou-birthday-drink",
@@ -262,7 +262,7 @@
         "id": "caribou",
         "name": "Caribou Coffee",
         "color": "#00582C",
-        "logoUrl": "https://img.logo.dev/cariboucoffee.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/caribou.png"
       },
       "valueCents": 650,
       "birthday": {
@@ -281,7 +281,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/35229818/pexels-photo-35229818.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/caribou-birthday-drink.jpg"
     },
     {
       "id": "coffee-bean-birthday-drink",
@@ -292,7 +292,7 @@
         "id": "coffee-bean",
         "name": "The Coffee Bean & Tea Leaf",
         "color": "#5C2D2D",
-        "logoUrl": "https://img.logo.dev/coffeebean.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/coffee-bean.png"
       },
       "valueCents": 600,
       "birthday": {
@@ -311,7 +311,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/5373242/pexels-photo-5373242.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/coffee-bean-birthday-drink.jpg"
     },
     {
       "id": "panera-birthday-treat",
@@ -322,7 +322,7 @@
         "id": "panera",
         "name": "Panera",
         "color": "#619B41",
-        "logoUrl": "https://img.logo.dev/panerabread.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/panera.png"
       },
       "valueCents": 350,
       "birthday": {
@@ -340,7 +340,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/35315968/pexels-photo-35315968.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/panera-birthday-treat.jpg"
     },
     {
       "id": "brueggers-birthday-bagel",
@@ -351,7 +351,7 @@
         "id": "brueggers",
         "name": "Bruegger's Bagels",
         "color": "#8B1A1A",
-        "logoUrl": "https://img.logo.dev/brueggers.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/brueggers.png"
       },
       "valueCents": 425,
       "birthday": {
@@ -369,7 +369,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/6413090/pexels-photo-6413090.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/brueggers-birthday-bagel.jpg"
     },
     {
       "id": "einstein-bros-birthday-egg-sandwich",
@@ -380,7 +380,7 @@
         "id": "einstein-bros",
         "name": "Einstein Bros Bagels",
         "color": "#00558C",
-        "logoUrl": "https://img.logo.dev/einsteinbros.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/einstein-bros.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -398,7 +398,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/14300536/pexels-photo-14300536.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/einstein-bros-birthday-egg-sandwich.jpg"
     },
     {
       "id": "ihop-birthday-pancakes",
@@ -409,7 +409,7 @@
         "id": "ihop",
         "name": "IHOP",
         "color": "#0072CE",
-        "logoUrl": "https://img.logo.dev/ihop.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/ihop.png"
       },
       "valueCents": 699,
       "birthday": {
@@ -428,7 +428,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908_1280.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/ihop-birthday-pancakes.jpg"
     },
     {
       "id": "dennys-birthday-grand-slam",
@@ -439,7 +439,7 @@
         "id": "dennys",
         "name": "Denny's",
         "color": "#FFCC00",
-        "logoUrl": "https://img.logo.dev/dennys.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/dennys.png"
       },
       "valueCents": 999,
       "birthday": {
@@ -457,7 +457,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/7144969/pexels-photo-7144969.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/dennys-birthday-grand-slam.jpg"
     },
     {
       "id": "outback-birthday-dessert",
@@ -468,7 +468,7 @@
         "id": "outback",
         "name": "Outback Steakhouse",
         "color": "#AF272F",
-        "logoUrl": "https://img.logo.dev/outback.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/outback.png"
       },
       "valueCents": 999,
       "birthday": {
@@ -486,7 +486,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/27819688/pexels-photo-27819688.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/outback-birthday-dessert.jpg"
     },
     {
       "id": "texas-roadhouse-birthday-dessert",
@@ -497,7 +497,7 @@
         "id": "texas-roadhouse",
         "name": "Texas Roadhouse",
         "color": "#B4252A",
-        "logoUrl": "https://img.logo.dev/texasroadhouse.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/texas-roadhouse.png"
       },
       "valueCents": 699,
       "birthday": {
@@ -515,7 +515,7 @@
         "dessert"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2019/10/21/17/12/wings-4566612_1280.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/texas-roadhouse-birthday-dessert.jpg"
     },
     {
       "id": "bww-birthday-wings",
@@ -526,7 +526,7 @@
         "id": "bww",
         "name": "Buffalo Wild Wings",
         "color": "#FFC72C",
-        "logoUrl": "https://img.logo.dev/buffalowildwings.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/bww.png"
       },
       "valueCents": 999,
       "birthday": {
@@ -545,7 +545,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/30146241/pexels-photo-30146241.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/bww-birthday-wings.jpg"
     },
     {
       "id": "applebees-birthday-dessert",
@@ -556,7 +556,7 @@
         "id": "applebees",
         "name": "Applebee's",
         "color": "#EE3A43",
-        "logoUrl": "https://img.logo.dev/applebees.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/applebees.png"
       },
       "valueCents": 799,
       "birthday": {
@@ -574,7 +574,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/29819836/pexels-photo-29819836.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/applebees-birthday-dessert.jpg"
     },
     {
       "id": "chilis-birthday-dessert",
@@ -585,7 +585,7 @@
         "id": "chilis",
         "name": "Chili's",
         "color": "#B3282D",
-        "logoUrl": "https://img.logo.dev/chilis.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/chilis.png"
       },
       "valueCents": 799,
       "birthday": {
@@ -604,7 +604,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/5638516/pexels-photo-5638516.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/chilis-birthday-dessert.jpg"
     },
     {
       "id": "tgi-fridays-birthday-dessert",
@@ -615,7 +615,7 @@
         "id": "tgi-fridays",
         "name": "TGI Fridays",
         "color": "#E4002B",
-        "logoUrl": "https://img.logo.dev/tgifridays.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/tgi-fridays.png"
       },
       "valueCents": 799,
       "birthday": {
@@ -634,7 +634,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/27819686/pexels-photo-27819686.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/tgi-fridays-birthday-dessert.jpg"
     },
     {
       "id": "baskin-robbins-birthday-scoop",
@@ -645,7 +645,7 @@
         "id": "baskin-robbins",
         "name": "Baskin-Robbins",
         "color": "#EC008C",
-        "logoUrl": "https://img.logo.dev/baskinrobbins.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/baskin-robbins.png"
       },
       "valueCents": 449,
       "birthday": {
@@ -664,7 +664,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/13133432/pexels-photo-13133432.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/baskin-robbins-birthday-scoop.jpg"
     },
     {
       "id": "cold-stone-bogo-creation",
@@ -675,7 +675,7 @@
         "id": "cold-stone",
         "name": "Cold Stone Creamery",
         "color": "#5C2F1C",
-        "logoUrl": "https://img.logo.dev/coldstonecreamery.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/cold-stone.png"
       },
       "valueCents": 699,
       "birthday": {
@@ -693,7 +693,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/16068057/pexels-photo-16068057.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/cold-stone-bogo-creation.jpg"
     },
     {
       "id": "ben-jerrys-flavor-fanatics-scoop",
@@ -704,7 +704,7 @@
         "id": "ben-jerrys",
         "name": "Ben & Jerry's",
         "color": "#0072CE",
-        "logoUrl": "https://img.logo.dev/benjerry.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/ben-jerrys.png"
       },
       "valueCents": 525,
       "birthday": {
@@ -722,7 +722,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/9227980/pexels-photo-9227980.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/ben-jerrys-flavor-fanatics-scoop.jpg"
     },
     {
       "id": "crumbl-birthday-cookie",
@@ -733,7 +733,7 @@
         "id": "crumbl",
         "name": "Crumbl Cookies",
         "color": "#F8B7C5",
-        "logoUrl": "https://img.logo.dev/crumblcookies.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/crumbl.png"
       },
       "valueCents": 499,
       "birthday": {
@@ -752,7 +752,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2015/05/07/15/08/cookie-756601_1280.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/crumbl-birthday-cookie.jpg"
     },
     {
       "id": "jamba-birthday-smoothie",
@@ -763,7 +763,7 @@
         "id": "jamba",
         "name": "Jamba",
         "color": "#F58220",
-        "logoUrl": "https://img.logo.dev/jamba.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/jamba.png"
       },
       "valueCents": 599,
       "birthday": {
@@ -782,7 +782,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/06/10/21/57/fruit-smoothie-1448975_1280.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/jamba-birthday-smoothie.jpg"
     },
     {
       "id": "smoothie-king-birthday-smoothie",
@@ -793,7 +793,7 @@
         "id": "smoothie-king",
         "name": "Smoothie King",
         "color": "#EE3124",
-        "logoUrl": "https://img.logo.dev/smoothieking.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/smoothie-king.png"
       },
       "valueCents": 799,
       "birthday": {
@@ -812,7 +812,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/17612783/pexels-photo-17612783.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/smoothie-king-birthday-smoothie.jpg"
     },
     {
       "id": "tropical-smoothie-birthday",
@@ -823,7 +823,7 @@
         "id": "tropical-smoothie",
         "name": "Tropical Smoothie Cafe",
         "color": "#F26522",
-        "logoUrl": "https://img.logo.dev/tropicalsmoothiecafe.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/tropical-smoothie.png"
       },
       "valueCents": 699,
       "birthday": {
@@ -842,7 +842,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/15126557/pexels-photo-15126557.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/tropical-smoothie-birthday.jpg"
     },
     {
       "id": "dq-birthday-blizzard",
@@ -853,7 +853,7 @@
         "id": "dq",
         "name": "Dairy Queen",
         "color": "#D71920",
-        "logoUrl": "https://img.logo.dev/dairyqueen.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/dq.png"
       },
       "valueCents": 649,
       "birthday": {
@@ -872,7 +872,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/6413587/pexels-photo-6413587.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/dq-birthday-blizzard.jpg"
     },
     {
       "id": "yogurtland-birthday-treat",
@@ -883,7 +883,7 @@
         "id": "yogurtland",
         "name": "Yogurtland",
         "color": "#E6007E",
-        "logoUrl": "https://img.logo.dev/yogurtland.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/yogurtland.png"
       },
       "valueCents": 599,
       "birthday": {
@@ -902,7 +902,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/14525431/pexels-photo-14525431.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/yogurtland-birthday-treat.jpg"
     },
     {
       "id": "jersey-mikes-birthday-shore-points",
@@ -913,7 +913,7 @@
         "id": "jersey-mikes",
         "name": "Jersey Mike's",
         "color": "#00543D",
-        "logoUrl": "https://img.logo.dev/jerseymikes.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/jersey-mikes.png"
       },
       "valueCents": 899,
       "birthday": {
@@ -931,7 +931,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2015/04/01/18/28/submarine-sandwich-702802_1280.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/jersey-mikes-birthday-shore-points.jpg"
     },
     {
       "id": "ulta-birthday-gift",
@@ -942,7 +942,7 @@
         "id": "ulta",
         "name": "Ulta Beauty",
         "color": "#E91D63",
-        "logoUrl": "https://img.logo.dev/ulta.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/ulta.png"
       },
       "valueCents": 1500,
       "birthday": {
@@ -961,7 +961,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/7290642/pexels-photo-7290642.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/ulta-birthday-gift.jpg"
     },
     {
       "id": "mac-birthday-gift",
@@ -972,7 +972,7 @@
         "id": "mac",
         "name": "MAC Cosmetics",
         "color": "#000000",
-        "logoUrl": "https://img.logo.dev/maccosmetics.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/mac.png"
       },
       "valueCents": 2000,
       "birthday": {
@@ -991,7 +991,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/7810637/pexels-photo-7810637.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/mac-birthday-gift.jpg"
     },
     {
       "id": "kiehls-birthday",
@@ -1002,7 +1002,7 @@
         "id": "kiehls",
         "name": "Kiehl's",
         "color": "#00573F",
-        "logoUrl": "https://img.logo.dev/kiehls.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/kiehls.png"
       },
       "valueCents": 1000,
       "birthday": {
@@ -1020,7 +1020,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/374638/pexels-photo-374638.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/kiehls-birthday.jpg"
     },
     {
       "id": "sally-beauty-birthday",
@@ -1031,7 +1031,7 @@
         "id": "sally",
         "name": "Sally Beauty",
         "color": "#E4002B",
-        "logoUrl": "https://img.logo.dev/sallybeauty.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/sally.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -1049,7 +1049,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/7440054/pexels-photo-7440054.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/sally-beauty-birthday.jpg"
     },
     {
       "id": "bath-body-works-birthday",
@@ -1060,7 +1060,7 @@
         "id": "bbw",
         "name": "Bath & Body Works",
         "color": "#00205B",
-        "logoUrl": "https://img.logo.dev/bathandbodyworks.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/bbw.png"
       },
       "valueCents": 995,
       "birthday": {
@@ -1079,7 +1079,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/08/17/20/24/perfume-420174_1280.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/bath-body-works-birthday.jpg"
     },
     {
       "id": "body-shop-birthday-reward",
@@ -1090,7 +1090,7 @@
         "id": "body-shop",
         "name": "The Body Shop",
         "color": "#004D33",
-        "logoUrl": "https://img.logo.dev/thebodyshop.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/body-shop.png"
       },
       "valueCents": 1000,
       "birthday": {
@@ -1108,7 +1108,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/36146499/pexels-photo-36146499.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/body-shop-birthday-reward.jpg"
     },
     {
       "id": "lush-birthday-voucher",
@@ -1119,7 +1119,7 @@
         "id": "lush",
         "name": "Lush",
         "color": "#000000",
-        "logoUrl": "https://img.logo.dev/lush.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/lush.png"
       },
       "valueCents": 1000,
       "birthday": {
@@ -1138,7 +1138,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/374847/pexels-photo-374847.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/lush-birthday-voucher.jpg"
     },
     {
       "id": "elf-birthday-gift",
@@ -1149,7 +1149,7 @@
         "id": "elf",
         "name": "e.l.f. Cosmetics",
         "color": "#000000",
-        "logoUrl": "https://img.logo.dev/elfcosmetics.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/elf.png"
       },
       "valueCents": 800,
       "birthday": {
@@ -1167,7 +1167,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/34321279/pexels-photo-34321279.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/elf-birthday-gift.jpg"
     },
     {
       "id": "origins-birthday",
@@ -1178,7 +1178,7 @@
         "id": "origins",
         "name": "Origins",
         "color": "#00573F",
-        "logoUrl": "https://img.logo.dev/origins.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/origins.png"
       },
       "valueCents": 1000,
       "birthday": {
@@ -1196,7 +1196,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/7321654/pexels-photo-7321654.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/origins-birthday.jpg"
     },
     {
       "id": "dsw-birthday-reward",
@@ -1207,7 +1207,7 @@
         "id": "dsw",
         "name": "DSW",
         "color": "#E4002B",
-        "logoUrl": "https://img.logo.dev/dsw.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/dsw.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -1225,7 +1225,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2015/02/13/00/15/shoes-634530_1280.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/dsw-birthday-reward.jpg"
     },
     {
       "id": "hot-topic-birthday-reward",
@@ -1236,7 +1236,7 @@
         "id": "hot-topic",
         "name": "Hot Topic",
         "color": "#000000",
-        "logoUrl": "https://img.logo.dev/hottopic.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/hot-topic.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -1254,7 +1254,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/14666446/pexels-photo-14666446.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/hot-topic-birthday-reward.jpg"
     },
     {
       "id": "world-market-birthday",
@@ -1265,7 +1265,7 @@
         "id": "world-market",
         "name": "World Market",
         "color": "#4B2C20",
-        "logoUrl": "https://img.logo.dev/worldmarket.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/world-market.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -1283,7 +1283,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/5865772/pexels-photo-5865772.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/world-market-birthday.jpg"
     },
     {
       "id": "petsmart-birthday-points",
@@ -1294,7 +1294,7 @@
         "id": "petsmart",
         "name": "PetSmart",
         "color": "#1B3F8B",
-        "logoUrl": "https://img.logo.dev/petsmart.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/petsmart.png"
       },
       "valueCents": 200,
       "birthday": {
@@ -1311,7 +1311,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2020/05/16/01/18/dog-toys-5175628_1280.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/petsmart-birthday-points.jpg"
     },
     {
       "id": "old-navy-birthday",
@@ -1339,7 +1339,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/20054237/pexels-photo-20054237.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/old-navy-birthday.jpg"
     },
     {
       "id": "gap-birthday",
@@ -1350,7 +1350,7 @@
         "id": "gap",
         "name": "Gap",
         "color": "#002F6C",
-        "logoUrl": "https://img.logo.dev/gap.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/gap.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -1368,7 +1368,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/7236120/pexels-photo-7236120.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/gap-birthday.jpg"
     },
     {
       "id": "american-eagle-birthday",
@@ -1396,7 +1396,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/2129970/pexels-photo-2129970.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/american-eagle-birthday.jpg"
     },
     {
       "id": "macys-birthday",
@@ -1407,7 +1407,7 @@
         "id": "macys",
         "name": "Macy's",
         "color": "#E21A2C",
-        "logoUrl": "https://img.logo.dev/macys.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/macys.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -1425,7 +1425,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/1666070/pexels-photo-1666070.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/macys-birthday.jpg"
     },
     {
       "id": "amc-birthday-popcorn",
@@ -1436,7 +1436,7 @@
         "id": "amc",
         "name": "AMC Theatres",
         "color": "#E2231A",
-        "logoUrl": "https://img.logo.dev/amctheatres.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/amc.png"
       },
       "valueCents": 1099,
       "birthday": {
@@ -1455,7 +1455,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/12/06/07/42/cinema-3001163_1280.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/amc-birthday-popcorn.jpg"
     },
     {
       "id": "regal-birthday-popcorn",
@@ -1466,7 +1466,7 @@
         "id": "regal",
         "name": "Regal Cinemas",
         "color": "#FFB81C",
-        "logoUrl": "https://img.logo.dev/regmovies.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/regal.png"
       },
       "valueCents": 699,
       "birthday": {
@@ -1485,7 +1485,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/8590230/pexels-photo-8590230.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/regal-birthday-popcorn.jpg"
     },
     {
       "id": "dave-busters-birthday",
@@ -1496,7 +1496,7 @@
         "id": "dave-busters",
         "name": "Dave & Buster's",
         "color": "#00A4E4",
-        "logoUrl": "https://img.logo.dev/daveandbusters.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/dave-busters.png"
       },
       "valueCents": 1000,
       "birthday": {
@@ -1515,7 +1515,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/03/06/12/26/pinball-280786_1280.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/dave-busters-birthday.jpg"
     },
     {
       "id": "chuck-e-cheese-birthday-club",
@@ -1526,7 +1526,7 @@
         "id": "chuck-e-cheese",
         "name": "Chuck E. Cheese",
         "color": "#EE2722",
-        "logoUrl": "https://img.logo.dev/chuckecheese.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/chuck-e-cheese.png"
       },
       "valueCents": 1500,
       "birthday": {
@@ -1545,7 +1545,7 @@
         "birthday"
       ],
       "claimType": "birthday",
-      "imageUrl": "https://images.pexels.com/photos/17370315/pexels-photo-17370315.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/chuck-e-cheese-birthday-club.jpg"
     },
     {
       "id": "yard-house-birthday-dessert",
@@ -1556,7 +1556,7 @@
         "id": "yard-house",
         "name": "Yard House",
         "color": "#B12028",
-        "logoUrl": "https://img.logo.dev/yardhouse.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/yard-house.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -1574,7 +1574,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/11867534/pexels-photo-11867534.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/yard-house-birthday-dessert.jpg"
     },
     {
       "id": "pf-changs-birthday-dessert",
@@ -1585,7 +1585,7 @@
         "id": "pf-changs",
         "name": "P.F. Chang's",
         "color": "#C8102E",
-        "logoUrl": "https://img.logo.dev/pfchangs.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/pf-changs.png"
       },
       "valueCents": 1200,
       "birthday": {
@@ -1604,7 +1604,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/34912738/pexels-photo-34912738.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/pf-changs-birthday-dessert.jpg"
     },
     {
       "id": "ihop-national-pancake-day-2026",
@@ -1615,7 +1615,7 @@
         "id": "ihop",
         "name": "IHOP",
         "color": "#0072CE",
-        "logoUrl": "https://img.logo.dev/ihop.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/ihop.png"
       },
       "valueCents": 599,
       "birthday": {
@@ -1633,7 +1633,7 @@
         "pancakes"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://images.pexels.com/photos/16710367/pexels-photo-16710367.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/ihop-national-pancake-day-2026.jpg",
       "expiresAt": "2026-03-03"
     },
     {
@@ -1645,7 +1645,7 @@
         "id": "ritas",
         "name": "Rita's",
         "color": "#EE2A7B",
-        "logoUrl": "https://img.logo.dev/ritasice.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/ritas.png"
       },
       "valueCents": 349,
       "birthday": {
@@ -1663,7 +1663,7 @@
         "spring"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://images.pexels.com/photos/12497795/pexels-photo-12497795.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/ritas-first-day-of-spring-2026.jpg",
       "expiresAt": "2026-03-20"
     },
     {
@@ -1675,7 +1675,7 @@
         "id": "ben-jerrys",
         "name": "Ben & Jerry's",
         "color": "#0072CE",
-        "logoUrl": "https://img.logo.dev/benjerry.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/ben-jerrys.png"
       },
       "valueCents": 599,
       "birthday": {
@@ -1693,7 +1693,7 @@
         "scoop"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://images.pexels.com/photos/126790/pexels-photo-126790.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/ben-jerrys-free-cone-day-2026.jpg",
       "expiresAt": "2026-04-14"
     },
     {
@@ -1705,7 +1705,7 @@
         "id": "wawa",
         "name": "Wawa",
         "color": "#C8102E",
-        "logoUrl": "https://img.logo.dev/wawa.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/wawa.png"
       },
       "valueCents": 269,
       "birthday": {
@@ -1723,7 +1723,7 @@
         "anniversary"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/30663149/pexels-photo-30663149.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/wawa-day-2026.jpg",
       "expiresAt": "2026-04-16"
     },
     {
@@ -1735,7 +1735,7 @@
         "id": "auntie-annes",
         "name": "Auntie Anne's",
         "color": "#00529B",
-        "logoUrl": "https://img.logo.dev/auntieannes.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/auntie-annes.png"
       },
       "valueCents": 499,
       "birthday": {
@@ -1753,7 +1753,7 @@
         "snack"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/1571074/pexels-photo-1571074.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/auntie-annes-national-pretzel-day-2026.jpg",
       "expiresAt": "2026-04-26"
     },
     {
@@ -1765,7 +1765,7 @@
         "id": "free-comic-book-day",
         "name": "Free Comic Book Day",
         "color": "#ED1C24",
-        "logoUrl": "https://img.logo.dev/freecomicbookday.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/free-comic-book-day.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -1783,7 +1783,7 @@
         "hobby"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://images.pexels.com/photos/12113866/pexels-photo-12113866.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/free-comic-book-day-2026.jpg",
       "expiresAt": "2026-05-02"
     },
     {
@@ -1795,7 +1795,7 @@
         "id": "dunkin",
         "name": "Dunkin'",
         "color": "#FF671F",
-        "logoUrl": "https://img.logo.dev/dunkindonuts.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/dunkin.png"
       },
       "valueCents": 199,
       "birthday": {
@@ -1813,7 +1813,7 @@
         "breakfast"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://images.pexels.com/photos/37220991/pexels-photo-37220991.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/national-donut-day-2026.jpg",
       "expiresAt": "2026-06-05"
     },
     {
@@ -1825,7 +1825,7 @@
         "id": "mcdonalds",
         "name": "McDonald's",
         "color": "#FFC72C",
-        "logoUrl": "https://img.logo.dev/mcdonalds.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/mcdonalds.png"
       },
       "valueCents": 299,
       "birthday": {
@@ -1843,7 +1843,7 @@
         "fast-food"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/17354196/pexels-photo-17354196.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/national-french-fry-day-2026.jpg",
       "expiresAt": "2026-07-10"
     },
     {
@@ -1855,7 +1855,7 @@
         "id": "seven-eleven",
         "name": "7-Eleven",
         "color": "#F37021",
-        "logoUrl": "https://img.logo.dev/7-eleven.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/seven-eleven.png"
       },
       "valueCents": 199,
       "birthday": {
@@ -1873,7 +1873,7 @@
         "summer"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://images.pexels.com/photos/11427521/pexels-photo-11427521.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/free-slurpee-day-2026.jpg",
       "expiresAt": "2026-07-11"
     },
     {
@@ -1885,7 +1885,7 @@
         "id": "chick-fil-a",
         "name": "Chick-fil-A",
         "color": "#DD0031",
-        "logoUrl": "https://img.logo.dev/chick-fil-a.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/chick-fil-a.png"
       },
       "valueCents": 599,
       "birthday": {
@@ -1903,7 +1903,7 @@
         "costume"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://images.pexels.com/photos/34407059/pexels-photo-34407059.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/chick-fil-a-cow-appreciation-day-2026.jpg",
       "expiresAt": "2026-07-14"
     },
     {
@@ -1915,7 +1915,7 @@
         "id": "dq",
         "name": "Dairy Queen",
         "color": "#D71920",
-        "logoUrl": "https://img.logo.dev/dairyqueen.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/dq.png"
       },
       "valueCents": 249,
       "birthday": {
@@ -1933,7 +1933,7 @@
         "summer"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/7761650/pexels-photo-7761650.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/national-ice-cream-day-2026.jpg",
       "expiresAt": "2026-07-19"
     },
     {
@@ -1945,7 +1945,7 @@
         "id": "wawa",
         "name": "Wawa",
         "color": "#C8102E",
-        "logoUrl": "https://img.logo.dev/wawa.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/wawa.png"
       },
       "valueCents": 269,
       "birthday": {
@@ -1963,7 +1963,7 @@
         "fall"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/20204675/pexels-photo-20204675.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/national-coffee-day-2026.jpg",
       "expiresAt": "2026-09-29"
     },
     {
@@ -1975,7 +1975,7 @@
         "id": "dunkin",
         "name": "Dunkin'",
         "color": "#FF671F",
-        "logoUrl": "https://img.logo.dev/dunkindonuts.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/dunkin.png"
       },
       "valueCents": 350,
       "birthday": {
@@ -1993,7 +1993,7 @@
         "free-drink"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/31711944/pexels-photo-31711944.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/dunkin-signup-free-beverage.jpg"
     },
     {
       "id": "krispy-kreme-signup-free-doughnut",
@@ -2004,7 +2004,7 @@
         "id": "krispy-kreme",
         "name": "Krispy Kreme",
         "color": "#006341",
-        "logoUrl": "https://img.logo.dev/krispykreme.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/krispy-kreme.png"
       },
       "valueCents": 199,
       "birthday": {
@@ -2022,7 +2022,7 @@
         "free-item"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/9619309/pexels-photo-9619309.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/krispy-kreme-signup-free-doughnut.jpg"
     },
     {
       "id": "panera-signup-free-pastry",
@@ -2033,7 +2033,7 @@
         "id": "panera",
         "name": "Panera",
         "color": "#619B41",
-        "logoUrl": "https://img.logo.dev/panerabread.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/panera.png"
       },
       "valueCents": 379,
       "birthday": {
@@ -2051,7 +2051,7 @@
         "free-item"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/20002837/pexels-photo-20002837.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/panera-signup-free-pastry.jpg"
     },
     {
       "id": "ihop-signup-free-pancakes",
@@ -2062,7 +2062,7 @@
         "id": "ihop",
         "name": "IHOP",
         "color": "#0072CE",
-        "logoUrl": "https://img.logo.dev/ihop.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/ihop.png"
       },
       "valueCents": 699,
       "birthday": {
@@ -2080,7 +2080,7 @@
         "breakfast"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/30299143/pexels-photo-30299143.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/ihop-signup-free-pancakes.jpg"
     },
     {
       "id": "dennys-signup-welcome-item",
@@ -2091,7 +2091,7 @@
         "id": "dennys",
         "name": "Denny's",
         "color": "#FFCC00",
-        "logoUrl": "https://img.logo.dev/dennys.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/dennys.png"
       },
       "valueCents": 499,
       "birthday": {
@@ -2109,7 +2109,7 @@
         "free-item"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/15805757/pexels-photo-15805757.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/dennys-signup-welcome-item.jpg"
     },
     {
       "id": "bww-signup-free-burger",
@@ -2120,7 +2120,7 @@
         "id": "bww",
         "name": "Buffalo Wild Wings",
         "color": "#FFC72C",
-        "logoUrl": "https://img.logo.dev/buffalowildwings.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/bww.png"
       },
       "valueCents": 1299,
       "birthday": {
@@ -2138,7 +2138,7 @@
         "free-item"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/36750270/pexels-photo-36750270.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/bww-signup-free-burger.jpg"
     },
     {
       "id": "cold-stone-signup-bogo",
@@ -2149,7 +2149,7 @@
         "id": "cold-stone",
         "name": "Cold Stone Creamery",
         "color": "#5C2F1C",
-        "logoUrl": "https://img.logo.dev/coldstonecreamery.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/cold-stone.png"
       },
       "valueCents": 699,
       "birthday": {
@@ -2167,7 +2167,7 @@
         "bogo"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/8104733/pexels-photo-8104733.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/cold-stone-signup-bogo.jpg"
     },
     {
       "id": "bbw-signup-coupon",
@@ -2178,7 +2178,7 @@
         "id": "bbw",
         "name": "Bath & Body Works",
         "color": "#00205B",
-        "logoUrl": "https://img.logo.dev/bathandbodyworks.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/bbw.png"
       },
       "valueCents": 1000,
       "birthday": {
@@ -2196,7 +2196,7 @@
         "coupon"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/5798000/pexels-photo-5798000.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/bbw-signup-coupon.jpg"
     },
     {
       "id": "kiehls-signup-bonus-points",
@@ -2207,7 +2207,7 @@
         "id": "kiehls",
         "name": "Kiehl's",
         "color": "#00573F",
-        "logoUrl": "https://img.logo.dev/kiehls.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/kiehls.png"
       },
       "valueCents": 150,
       "birthday": {
@@ -2225,7 +2225,7 @@
         "points"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/3762879/pexels-photo-3762879.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/kiehls-signup-bonus-points.jpg"
     },
     {
       "id": "mac-lover-signup-discount",
@@ -2236,7 +2236,7 @@
         "id": "mac",
         "name": "MAC Cosmetics",
         "color": "#000000",
-        "logoUrl": "https://img.logo.dev/maccosmetics.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/mac.png"
       },
       "valueCents": 800,
       "birthday": {
@@ -2254,7 +2254,7 @@
         "discount"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/4620875/pexels-photo-4620875.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/mac-lover-signup-discount.jpg"
     },
     {
       "id": "origins-signup-welcome-offer",
@@ -2265,7 +2265,7 @@
         "id": "origins",
         "name": "Origins",
         "color": "#00573F",
-        "logoUrl": "https://img.logo.dev/origins.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/origins.png"
       },
       "valueCents": 800,
       "birthday": {
@@ -2283,7 +2283,7 @@
         "discount"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/8131568/pexels-photo-8131568.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/origins-signup-welcome-offer.jpg"
     },
     {
       "id": "pf-changs-signup-edamame",
@@ -2294,7 +2294,7 @@
         "id": "pf-changs",
         "name": "P.F. Chang's",
         "color": "#C8102E",
-        "logoUrl": "https://img.logo.dev/pfchangs.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/pf-changs.png"
       },
       "valueCents": 699,
       "birthday": {
@@ -2312,7 +2312,7 @@
         "free-item"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/29935499/pexels-photo-29935499.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/pf-changs-signup-edamame.jpg"
     },
     {
       "id": "ulta-birthday-2x-points",
@@ -2323,7 +2323,7 @@
         "id": "ulta",
         "name": "Ulta Beauty",
         "color": "#E91D63",
-        "logoUrl": "https://img.logo.dev/ulta.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/ulta.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -2342,7 +2342,7 @@
         "points"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/7256082/pexels-photo-7256082.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/ulta-birthday-2x-points.jpg"
     },
     {
       "id": "outback-birthday-dessert-month",
@@ -2353,7 +2353,7 @@
         "id": "outback",
         "name": "Outback Steakhouse",
         "color": "#AF272F",
-        "logoUrl": "https://img.logo.dev/outback.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/outback.png"
       },
       "valueCents": 999,
       "birthday": {
@@ -2371,7 +2371,7 @@
         "dining"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/27359379/pexels-photo-27359379.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/outback-birthday-dessert-month.jpg"
     },
     {
       "id": "dq-birthday-monthly-blizzard",
@@ -2382,7 +2382,7 @@
         "id": "dq",
         "name": "Dairy Queen",
         "color": "#D71920",
-        "logoUrl": "https://img.logo.dev/dairyqueen.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/dq.png"
       },
       "valueCents": 599,
       "birthday": {
@@ -2400,7 +2400,7 @@
         "dessert"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/12381454/pexels-photo-12381454.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/dq-birthday-monthly-blizzard.jpg"
     },
     {
       "id": "build-a-bear-pay-your-age-month",
@@ -2411,7 +2411,7 @@
         "id": "build-a-bear",
         "name": "Build-A-Bear",
         "color": "#E4002B",
-        "logoUrl": "https://img.logo.dev/buildabear.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/build-a-bear.png"
       },
       "valueCents": 1500,
       "birthday": {
@@ -2429,7 +2429,7 @@
         "kids"
       ],
       "claimType": "birthday",
-      "imageUrl": "https://images.pexels.com/photos/4887162/pexels-photo-4887162.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/build-a-bear-pay-your-age-month.jpg"
     },
     {
       "id": "bbw-birthday-reward-30-days",
@@ -2440,7 +2440,7 @@
         "id": "bbw",
         "name": "Bath & Body Works",
         "color": "#00205B",
-        "logoUrl": "https://img.logo.dev/bathandbodyworks.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/bbw.png"
       },
       "valueCents": 995,
       "birthday": {
@@ -2458,7 +2458,7 @@
         "beauty"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/374071/pexels-photo-374071.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/bbw-birthday-reward-30-days.jpg"
     },
     {
       "id": "mac-birthday-2x-3x-points",
@@ -2469,7 +2469,7 @@
         "id": "mac",
         "name": "MAC Cosmetics",
         "color": "#000000",
-        "logoUrl": "https://img.logo.dev/maccosmetics.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/mac.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -2488,7 +2488,7 @@
         "points"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/7290632/pexels-photo-7290632.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/mac-birthday-2x-3x-points.jpg"
     },
     {
       "id": "hot-topic-birthday-credit-45-days",
@@ -2499,7 +2499,7 @@
         "id": "hot-topic",
         "name": "Hot Topic",
         "color": "#000000",
-        "logoUrl": "https://img.logo.dev/hottopic.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/hot-topic.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -2517,7 +2517,7 @@
         "retail"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/28774730/pexels-photo-28774730.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/hot-topic-birthday-credit-45-days.jpg"
     },
     {
       "id": "amc-birthday-popcorn-month",
@@ -2528,7 +2528,7 @@
         "id": "amc",
         "name": "AMC Theatres",
         "color": "#E2231A",
-        "logoUrl": "https://img.logo.dev/amctheatres.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/amc.png"
       },
       "valueCents": 1099,
       "birthday": {
@@ -2546,7 +2546,7 @@
         "movies"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/7234384/pexels-photo-7234384.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/amc-birthday-popcorn-month.jpg"
     },
     {
       "id": "world-market-birthday-15-off",
@@ -2557,7 +2557,7 @@
         "id": "world-market",
         "name": "World Market",
         "color": "#4B2C20",
-        "logoUrl": "https://img.logo.dev/worldmarket.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/world-market.png"
       },
       "valueCents": 750,
       "birthday": {
@@ -2575,7 +2575,7 @@
         "retail"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/34688219/pexels-photo-34688219.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/world-market-birthday-15-off.jpg"
     },
     {
       "id": "pf-changs-birthday-app-month",
@@ -2586,7 +2586,7 @@
         "id": "pf-changs",
         "name": "P.F. Chang's",
         "color": "#C8102E",
-        "logoUrl": "https://img.logo.dev/pfchangs.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/pf-changs.png"
       },
       "valueCents": 999,
       "birthday": {
@@ -2604,7 +2604,7 @@
         "dining"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/7287696/pexels-photo-7287696.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/pf-changs-birthday-app-month.jpg"
     },
     {
       "id": "dsw-vip-birthday-bonus-month",
@@ -2615,7 +2615,7 @@
         "id": "dsw",
         "name": "DSW",
         "color": "#E4002B",
-        "logoUrl": "https://img.logo.dev/dsw.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/dsw.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -2633,7 +2633,7 @@
         "retail"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/1027130/pexels-photo-1027130.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/dsw-vip-birthday-bonus-month.jpg"
     },
     {
       "id": "buffalo-wild-wings-birthday-wings",
@@ -2644,7 +2644,7 @@
         "id": "bww",
         "name": "Buffalo Wild Wings",
         "color": "#FFC72C",
-        "logoUrl": "https://img.logo.dev/buffalowildwings.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/bww.png"
       },
       "valueCents": 800,
       "birthday": {
@@ -2662,7 +2662,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/7734563/pexels-photo-7734563.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/buffalo-wild-wings-birthday-wings.jpg"
     },
     {
       "id": "jersey-mikes-birthday-sub",
@@ -2673,7 +2673,7 @@
         "id": "jersey-mikes",
         "name": "Jersey Mike's",
         "color": "#00543D",
-        "logoUrl": "https://img.logo.dev/jerseymikes.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/jersey-mikes.png"
       },
       "valueCents": 1300,
       "birthday": {
@@ -2691,7 +2691,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/34593405/pexels-photo-34593405.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/jersey-mikes-birthday-sub.jpg"
     },
     {
       "id": "firehouse-subs-birthday-sub",
@@ -2702,7 +2702,7 @@
         "id": "firehouse-subs",
         "name": "Firehouse Subs",
         "color": "#C8102E",
-        "logoUrl": "https://img.logo.dev/firehousesubs.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/firehouse-subs.png"
       },
       "valueCents": 900,
       "birthday": {
@@ -2720,7 +2720,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/34593399/pexels-photo-34593399.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/firehouse-subs-birthday-sub.jpg"
     },
     {
       "id": "jimmy-johns-birthday-sandwich",
@@ -2731,7 +2731,7 @@
         "id": "jimmy-johns",
         "name": "Jimmy John's",
         "color": "#E4002B",
-        "logoUrl": "https://img.logo.dev/jimmyjohns.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/jimmy-johns.png"
       },
       "valueCents": 800,
       "birthday": {
@@ -2749,7 +2749,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/11047123/pexels-photo-11047123.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/jimmy-johns-birthday-sandwich.jpg"
     },
     {
       "id": "hooters-birthday-wings",
@@ -2760,7 +2760,7 @@
         "id": "hooters",
         "name": "Hooters",
         "color": "#FF6B00",
-        "logoUrl": "https://img.logo.dev/hooters.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/hooters.png"
       },
       "valueCents": 1100,
       "birthday": {
@@ -2777,7 +2777,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/31228748/pexels-photo-31228748.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/hooters-birthday-wings.jpg"
     },
     {
       "id": "bojangles-birthday-bo-berry",
@@ -2788,7 +2788,7 @@
         "id": "bojangles",
         "name": "Bojangles",
         "color": "#FFD100",
-        "logoUrl": "https://img.logo.dev/bojangles.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/bojangles.png"
       },
       "valueCents": 300,
       "birthday": {
@@ -2805,7 +2805,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/31513671/pexels-photo-31513671.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/bojangles-birthday-bo-berry.jpg"
     },
     {
       "id": "chipotle-birthday-treat",
@@ -2816,7 +2816,7 @@
         "id": "chipotle",
         "name": "Chipotle",
         "color": "#A81612",
-        "logoUrl": "https://img.logo.dev/chipotle.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/chipotle.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -2834,7 +2834,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/34831904/pexels-photo-34831904.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/chipotle-birthday-treat.jpg"
     },
     {
       "id": "wendys-birthday-frosty",
@@ -2845,7 +2845,7 @@
         "id": "wendys",
         "name": "Wendy's",
         "color": "#E2203D",
-        "logoUrl": "https://img.logo.dev/wendys.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/wendys.png"
       },
       "valueCents": 250,
       "birthday": {
@@ -2863,7 +2863,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/35832472/pexels-photo-35832472.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/wendys-birthday-frosty.jpg"
     },
     {
       "id": "moes-birthday-burrito",
@@ -2874,7 +2874,7 @@
         "id": "moes",
         "name": "Moe's Southwest Grill",
         "color": "#E2231A",
-        "logoUrl": "https://img.logo.dev/moes.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/moes.png"
       },
       "valueCents": 900,
       "birthday": {
@@ -2892,7 +2892,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/5848057/pexels-photo-5848057.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/moes-birthday-burrito.jpg"
     },
     {
       "id": "qdoba-birthday-queso",
@@ -2903,7 +2903,7 @@
         "id": "qdoba",
         "name": "Qdoba",
         "color": "#7C2128",
-        "logoUrl": "https://img.logo.dev/qdoba.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/qdoba.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -2921,7 +2921,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/12557546/pexels-photo-12557546.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/qdoba-birthday-queso.jpg"
     },
     {
       "id": "noodles-birthday-dessert",
@@ -2932,7 +2932,7 @@
         "id": "noodles",
         "name": "Noodles & Company",
         "color": "#A6192E",
-        "logoUrl": "https://img.logo.dev/noodles.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/noodles.png"
       },
       "valueCents": 300,
       "birthday": {
@@ -2950,7 +2950,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/9189264/pexels-photo-9189264.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/noodles-birthday-dessert.jpg"
     },
     {
       "id": "cold-stone-birthday-bogo",
@@ -2961,7 +2961,7 @@
         "id": "cold-stone",
         "name": "Cold Stone Creamery",
         "color": "#5C2F1C",
-        "logoUrl": "https://img.logo.dev/coldstonecreamery.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/cold-stone.png"
       },
       "valueCents": 600,
       "birthday": {
@@ -2978,7 +2978,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/12381455/pexels-photo-12381455.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/cold-stone-birthday-bogo.jpg"
     },
     {
       "id": "carvel-birthday-cone",
@@ -2989,7 +2989,7 @@
         "id": "carvel",
         "name": "Carvel",
         "color": "#003DA5",
-        "logoUrl": "https://img.logo.dev/carvel.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/carvel.png"
       },
       "valueCents": 400,
       "birthday": {
@@ -3006,7 +3006,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/16962446/pexels-photo-16962446.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/carvel-birthday-cone.jpg"
     },
     {
       "id": "cinnabon-birthday-coldbrew",
@@ -3017,7 +3017,7 @@
         "id": "cinnabon",
         "name": "Cinnabon",
         "color": "#0072CE",
-        "logoUrl": "https://img.logo.dev/cinnabon.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/cinnabon.png"
       },
       "valueCents": 400,
       "birthday": {
@@ -3034,7 +3034,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/8980388/pexels-photo-8980388.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/cinnabon-birthday-coldbrew.jpg"
     },
     {
       "id": "whataburger-birthday-pick",
@@ -3045,7 +3045,7 @@
         "id": "whataburger",
         "name": "Whataburger",
         "color": "#FF6E0D",
-        "logoUrl": "https://img.logo.dev/whataburger.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/whataburger.png"
       },
       "valueCents": 400,
       "birthday": {
@@ -3063,7 +3063,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_1280.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/whataburger-birthday-pick.jpg"
     },
     {
       "id": "subway-birthday-cookie",
@@ -3074,7 +3074,7 @@
         "id": "subway",
         "name": "Subway",
         "color": "#008C15",
-        "logoUrl": "https://img.logo.dev/subway.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/subway.png"
       },
       "valueCents": 200,
       "birthday": {
@@ -3092,7 +3092,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/31116124/pexels-photo-31116124.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/subway-birthday-cookie.jpg"
     },
     {
       "id": "panda-express-birthday-entree",
@@ -3103,7 +3103,7 @@
         "id": "panda-express",
         "name": "Panda Express",
         "color": "#D2232A",
-        "logoUrl": "https://img.logo.dev/pandaexpress.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/panda-express.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -3121,7 +3121,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/6646262/pexels-photo-6646262.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/panda-express-birthday-entree.jpg"
     },
     {
       "id": "dsw-birthday-discount",
@@ -3132,7 +3132,7 @@
         "id": "dsw",
         "name": "DSW",
         "color": "#E4002B",
-        "logoUrl": "https://img.logo.dev/dsw.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/dsw.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -3149,7 +3149,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/30313904/pexels-photo-30313904.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/dsw-birthday-discount.jpg"
     },
     {
       "id": "target-circle-birthday",
@@ -3160,7 +3160,7 @@
         "id": "target",
         "name": "Target",
         "color": "#CC0000",
-        "logoUrl": "https://img.logo.dev/target.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/target.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -3177,7 +3177,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/6956906/pexels-photo-6956906.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/target-circle-birthday.jpg"
     },
     {
       "id": "noodles-signup-entree",
@@ -3188,7 +3188,7 @@
         "id": "noodles",
         "name": "Noodles & Company",
         "color": "#A6192E",
-        "logoUrl": "https://img.logo.dev/noodles.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/noodles.png"
       },
       "valueCents": 1000,
       "birthday": {
@@ -3206,7 +3206,7 @@
         "signup-bonus"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/28481038/pexels-photo-28481038.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/noodles-signup-entree.jpg"
     },
     {
       "id": "qdoba-signup-queso",
@@ -3217,7 +3217,7 @@
         "id": "qdoba",
         "name": "Qdoba",
         "color": "#7C2128",
-        "logoUrl": "https://img.logo.dev/qdoba.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/qdoba.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -3235,7 +3235,7 @@
         "signup-bonus"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/17471605/pexels-photo-17471605.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/qdoba-signup-queso.jpg"
     },
     {
       "id": "moes-signup-queso",
@@ -3246,7 +3246,7 @@
         "id": "moes",
         "name": "Moe's Southwest Grill",
         "color": "#E2231A",
-        "logoUrl": "https://img.logo.dev/moes.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/moes.png"
       },
       "valueCents": 400,
       "birthday": {
@@ -3264,7 +3264,7 @@
         "signup-bonus"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/27603253/pexels-photo-27603253.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/moes-signup-queso.jpg"
     },
     {
       "id": "cold-stone-signup-creation",
@@ -3275,7 +3275,7 @@
         "id": "cold-stone",
         "name": "Cold Stone Creamery",
         "color": "#5C2F1C",
-        "logoUrl": "https://img.logo.dev/coldstonecreamery.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/cold-stone.png"
       },
       "valueCents": 600,
       "birthday": {
@@ -3292,7 +3292,7 @@
         "signup-bonus"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/1683546/pexels-photo-1683546.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/cold-stone-signup-creation.jpg"
     },
     {
       "id": "rei-coop-membership-bonus",
@@ -3303,7 +3303,7 @@
         "id": "rei",
         "name": "REI Co-op",
         "color": "#005831",
-        "logoUrl": "https://img.logo.dev/rei.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/rei.png"
       },
       "valueCents": 3000,
       "birthday": {
@@ -3320,7 +3320,7 @@
         "signup-bonus"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/1178525/pexels-photo-1178525.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/rei-coop-membership-bonus.jpg"
     },
     {
       "id": "bojangles-signup-tea",
@@ -3331,7 +3331,7 @@
         "id": "bojangles",
         "name": "Bojangles",
         "color": "#FFD100",
-        "logoUrl": "https://img.logo.dev/bojangles.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/bojangles.png"
       },
       "valueCents": 300,
       "birthday": {
@@ -3348,7 +3348,7 @@
         "signup-bonus"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/6209634/pexels-photo-6209634.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/bojangles-signup-tea.jpg"
     },
     {
       "id": "world-market-signup-coupon",
@@ -3359,7 +3359,7 @@
         "id": "world-market",
         "name": "World Market",
         "color": "#4B2C20",
-        "logoUrl": "https://img.logo.dev/worldmarket.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/world-market.png"
       },
       "valueCents": 1000,
       "birthday": {
@@ -3376,7 +3376,7 @@
         "signup-bonus"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/5650023/pexels-photo-5650023.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/world-market-signup-coupon.jpg"
     },
     {
       "id": "pinchme-free-samples",
@@ -3387,7 +3387,7 @@
         "id": "pinchme",
         "name": "PINCHme",
         "color": "#FF008C",
-        "logoUrl": "https://img.logo.dev/pinchme.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/pinchme.png"
       },
       "valueCents": 1500,
       "birthday": {
@@ -3405,7 +3405,7 @@
         "sample"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/7801874/pexels-photo-7801874.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/pinchme-free-samples.jpg"
     },
     {
       "id": "pg-good-everyday-samples",
@@ -3416,7 +3416,7 @@
         "id": "pg-good-everyday",
         "name": "P&G Good Everyday",
         "color": "#003E7E",
-        "logoUrl": "https://img.logo.dev/pggoodeveryday.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/pg-good-everyday.png"
       },
       "valueCents": 800,
       "birthday": {
@@ -3433,7 +3433,7 @@
         "sample"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/5217889/pexels-photo-5217889.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/pg-good-everyday-samples.jpg"
     },
     {
       "id": "send-me-a-sample-alexa",
@@ -3444,7 +3444,7 @@
         "id": "send-me-a-sample",
         "name": "Send Me a Sample",
         "color": "#00B4D8",
-        "logoUrl": "https://img.logo.dev/sendmeasample.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/send-me-a-sample.png"
       },
       "valueCents": 500,
       "birthday": {
@@ -3462,7 +3462,7 @@
         "sample"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/6958448/pexels-photo-6958448.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/send-me-a-sample-alexa.jpg"
     },
     {
       "id": "sample-source-box",
@@ -3473,7 +3473,7 @@
         "id": "sample-source",
         "name": "SampleSource",
         "color": "#E40046",
-        "logoUrl": "https://img.logo.dev/samplesource.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/sample-source.png"
       },
       "valueCents": 2000,
       "birthday": {
@@ -3491,7 +3491,7 @@
         "sample"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/6707195/pexels-photo-6707195.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/sample-source-box.jpg"
     },
     {
       "id": "national-cookie-day-2026",
@@ -3502,7 +3502,7 @@
         "id": "great-american-cookies",
         "name": "Great American Cookies",
         "color": "#7A2628",
-        "logoUrl": "https://img.logo.dev/greatamericancookies.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/great-american-cookies.png"
       },
       "valueCents": 250,
       "birthday": {
@@ -3520,7 +3520,7 @@
         "dessert"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://images.pexels.com/photos/30759934/pexels-photo-30759934.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/national-cookie-day-2026.jpg",
       "expiresAt": "2026-12-04"
     },
     {
@@ -3532,7 +3532,7 @@
         "id": "einstein-bros",
         "name": "Einstein Bros Bagels",
         "color": "#00558C",
-        "logoUrl": "https://img.logo.dev/einsteinbros.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/einstein-bros.png"
       },
       "valueCents": 350,
       "birthday": {
@@ -3550,7 +3550,7 @@
         "bagel"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://images.pexels.com/photos/24796900/pexels-photo-24796900.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/national-bagel-day-2027.jpg",
       "expiresAt": "2027-01-15"
     },
     {
@@ -3562,7 +3562,7 @@
         "id": "krispy-kreme",
         "name": "Krispy Kreme",
         "color": "#006341",
-        "logoUrl": "https://img.logo.dev/krispykreme.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/krispy-kreme.png"
       },
       "valueCents": 150,
       "birthday": {
@@ -3580,7 +3580,7 @@
         "winter"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://images.pexels.com/photos/7034529/pexels-photo-7034529.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/random-acts-of-kindness-day-2027.jpg",
       "expiresAt": "2027-02-17"
     },
     {
@@ -3592,7 +3592,7 @@
         "id": "chick-fil-a",
         "name": "Chick-fil-A",
         "color": "#DD0031",
-        "logoUrl": "https://img.logo.dev/chick-fil-a.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/chick-fil-a.png"
       },
       "valueCents": 295,
       "birthday": {
@@ -3611,7 +3611,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/8081574/pexels-photo-8081574.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/chick-fil-a-birthday-reward.jpg"
     },
     {
       "id": "taco-bell-birthday-reward",
@@ -3622,7 +3622,7 @@
         "id": "taco-bell",
         "name": "Taco Bell",
         "color": "#702082",
-        "logoUrl": "https://img.logo.dev/tacobell.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/taco-bell.png"
       },
       "valueCents": 199,
       "birthday": {
@@ -3641,7 +3641,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/18574186/pexels-photo-18574186.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/taco-bell-birthday-reward.jpg"
     },
     {
       "id": "olive-garden-birthday-dessert",
@@ -3652,7 +3652,7 @@
         "id": "olive-garden",
         "name": "Olive Garden",
         "color": "#5D8233",
-        "logoUrl": "https://img.logo.dev/olivegarden.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/olive-garden.png"
       },
       "valueCents": 899,
       "birthday": {
@@ -3671,7 +3671,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/6147818/pexels-photo-6147818.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/olive-garden-birthday-dessert.jpg"
     },
     {
       "id": "sonic-birthday-reward",
@@ -3682,7 +3682,7 @@
         "id": "sonic",
         "name": "Sonic Drive-In",
         "color": "#F9A11B",
-        "logoUrl": "https://img.logo.dev/sonicdrivein.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/sonic.png"
       },
       "valueCents": 299,
       "birthday": {
@@ -3702,7 +3702,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/34711204/pexels-photo-34711204.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/sonic-birthday-reward.jpg"
     },
     {
       "id": "burger-king-birthday-reward",
@@ -3713,7 +3713,7 @@
         "id": "burger-king",
         "name": "Burger King",
         "color": "#D62300",
-        "logoUrl": "https://img.logo.dev/bk.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/burger-king.png"
       },
       "valueCents": 399,
       "birthday": {
@@ -3732,7 +3732,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/3219547/pexels-photo-3219547.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/burger-king-birthday-reward.jpg"
     },
     {
       "id": "cvs-birthday-extrabucks",
@@ -3743,7 +3743,7 @@
         "id": "cvs",
         "name": "CVS",
         "color": "#CC0000",
-        "logoUrl": "https://img.logo.dev/cvs.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/cvs.png"
       },
       "valueCents": 300,
       "birthday": {
@@ -3761,7 +3761,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/9629685/pexels-photo-9629685.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/cvs-birthday-extrabucks.jpg"
     },
     {
       "id": "pink-birthday-reward",
@@ -3772,7 +3772,7 @@
         "id": "pink-vs",
         "name": "Victoria's Secret PINK",
         "color": "#E0218A",
-        "logoUrl": "https://img.logo.dev/victoriassecret.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/pink-vs.png"
       },
       "valueCents": 1000,
       "birthday": {
@@ -3790,7 +3790,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://images.pexels.com/photos/7679720/pexels-photo-7679720.jpeg?auto=compress&cs=tinysrgb&w=900"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/pink-birthday-reward.jpg"
     },
     {
       "id": "national-pizza-day-2027",
@@ -3801,7 +3801,7 @@
         "id": "pizza-hut",
         "name": "Pizza Hut",
         "color": "#EE3124",
-        "logoUrl": "https://img.logo.dev/pizzahut.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/pizza-hut.png"
       },
       "valueCents": 1000,
       "birthday": {
@@ -3819,7 +3819,7 @@
         "winter"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/4109111/pexels-photo-4109111.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/national-pizza-day-2027.jpg",
       "expiresAt": "2027-02-09"
     },
     {
@@ -3831,7 +3831,7 @@
         "id": "blaze-pizza",
         "name": "Blaze Pizza",
         "color": "#FF3B30",
-        "logoUrl": "https://img.logo.dev/blazepizza.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/blaze-pizza.png"
       },
       "valueCents": 800,
       "birthday": {
@@ -3849,7 +3849,7 @@
         "spring"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://images.pexels.com/photos/845811/pexels-photo-845811.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/pi-day-2027.jpg",
       "expiresAt": "2027-03-14"
     },
     {
@@ -3861,7 +3861,7 @@
         "id": "burger-king",
         "name": "Burger King",
         "color": "#D62300",
-        "logoUrl": "https://img.logo.dev/bk.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/burger-king.png"
       },
       "valueCents": 399,
       "birthday": {
@@ -3880,7 +3880,7 @@
         "fall"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/national-cheeseburger-day-2026.jpg",
       "expiresAt": "2026-09-18"
     },
     {
@@ -3892,7 +3892,7 @@
         "id": "taco-bell",
         "name": "Taco Bell",
         "color": "#702082",
-        "logoUrl": "https://img.logo.dev/tacobell.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/taco-bell.png"
       },
       "valueCents": 299,
       "birthday": {
@@ -3911,7 +3911,7 @@
         "fall"
       ],
       "claimType": "app",
-      "imageUrl": "https://images.pexels.com/photos/2092507/pexels-photo-2092507.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/national-taco-day-2026.jpg",
       "expiresAt": "2026-10-06"
     }
   ]
