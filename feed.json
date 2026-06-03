@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-31T22:56:56Z",
-  "count": 124,
+  "generatedAt": "2026-06-03T14:22:54Z",
+  "count": 133,
   "freebies": [
     {
       "id": "sephora-beauty-insider-birthday",
@@ -38,8 +38,8 @@
     {
       "id": "build-a-bear-count-your-candles",
       "category": "birthday_reward",
-      "title": "Pay-your-age Bear",
-      "subtitle": "Count Your Candles",
+      "title": "Pay your age for a Build-A-Bear",
+      "subtitle": "Count Your Candles - birthday month",
       "brand": {
         "id": "build-a-bear",
         "name": "Build-A-Bear",
@@ -100,41 +100,9 @@
       "imageUrl": "https://cdn.pixabay.com/photo/2017/03/27/14/18/coffee-2179028_1280.jpg"
     },
     {
-      "id": "red-robin-birthday-burger",
-      "category": "birthday_reward",
-      "title": "Free burger or shake",
-      "subtitle": "Royalty Rewards",
-      "brand": {
-        "id": "red-robin",
-        "name": "Red Robin",
-        "color": "#BB133E",
-        "logoUrl": "https://img.logo.dev/redrobin.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
-      },
-      "valueCents": 1399,
-      "birthday": {
-        "signupLeadTimeDays": 30
-      },
-      "redemptionUrl": "https://www.redrobin.com/rewards",
-      "verification": {
-        "status": "published",
-        "lastVerifiedAt": "2026-05-31"
-      },
-      "addedAt": "2026-05-31",
-      "tags": [
-        "burger",
-        "dine-in",
-        "loyalty",
-        "birthday"
-      ],
-      "claimType": "signup",
-      "isEditorsPick": true,
-      "editorsPickRank": 4,
-      "imageUrl": "https://cdn.pixabay.com/photo/2018/12/13/09/02/burger-3872456_1280.jpg"
-    },
-    {
       "id": "cheesecake-factory-birthday-slice",
       "category": "birthday_reward",
-      "title": "Free birthday slice",
+      "title": "Free slice with any purchase",
       "subtitle": "Cheesecake Rewards",
       "brand": {
         "id": "cheesecake-factory",
@@ -149,7 +117,7 @@
       "redemptionUrl": "https://www.thecheesecakefactory.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-03"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -193,13 +161,13 @@
       "claimType": "app",
       "isEditorsPick": true,
       "editorsPickRank": 6,
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/30/13/26/donuts-2697081_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/30822876/pexels-photo-30822876.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "dunkin-birthday-3x-points",
       "category": "birthday_reward",
-      "title": "3x points on every order",
-      "subtitle": "All birthday month, Dunkin' Rewards",
+      "title": "3x birthday-month points",
+      "subtitle": "Dunkin Rewards",
       "brand": {
         "id": "dunkin",
         "name": "Dunkin'",
@@ -213,7 +181,7 @@
       "redemptionUrl": "https://www.dunkindonuts.com/en/dunkinrewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-03"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -223,7 +191,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/03/27/14/18/coffee-2179028_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/17230068/pexels-photo-17230068.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "auntie-annes-birthday-pretzel",
@@ -253,7 +221,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/09/06/16/18/pretzels-1649483_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/23692948/pexels-photo-23692948.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "wetzels-birthday-pretzel",
@@ -283,7 +251,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/09/06/16/18/pretzels-1649483_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/4651969/pexels-photo-4651969.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "caribou-birthday-drink",
@@ -313,7 +281,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/03/27/14/18/coffee-2179028_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/35229818/pexels-photo-35229818.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "coffee-bean-birthday-drink",
@@ -343,7 +311,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/03/27/14/18/coffee-2179028_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/5373242/pexels-photo-5373242.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "panera-birthday-treat",
@@ -372,7 +340,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2018/11/02/20/54/bagels-3791063_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/35315968/pexels-photo-35315968.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "brueggers-birthday-bagel",
@@ -401,7 +369,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2018/11/02/20/54/bagels-3791063_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/6413090/pexels-photo-6413090.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "einstein-bros-birthday-egg-sandwich",
@@ -430,7 +398,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2018/11/02/20/54/bagels-3791063_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/14300536/pexels-photo-14300536.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "ihop-birthday-pancakes",
@@ -489,7 +457,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/7144969/pexels-photo-7144969.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "outback-birthday-dessert",
@@ -518,12 +486,12 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/08/08/16/20/cheesecake-1578691_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/27819688/pexels-photo-27819688.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
-      "id": "texas-roadhouse-birthday-appetizer",
+      "id": "texas-roadhouse-birthday-dessert",
       "category": "birthday_reward",
-      "title": "Free birthday appetizer",
+      "title": "Free birthday dessert",
       "subtitle": "VIP Club",
       "brand": {
         "id": "texas-roadhouse",
@@ -538,13 +506,13 @@
       "redemptionUrl": "https://www.texasroadhouse.com/vip-club",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-03"
       },
       "addedAt": "2026-05-31",
       "tags": [
         "steakhouse",
-        "appetizer",
-        "birthday"
+        "birthday",
+        "dessert"
       ],
       "claimType": "signup",
       "imageUrl": "https://cdn.pixabay.com/photo/2019/10/21/17/12/wings-4566612_1280.jpg"
@@ -577,7 +545,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2019/10/21/17/12/wings-4566612_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/30146241/pexels-photo-30146241.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "applebees-birthday-dessert",
@@ -606,7 +574,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/08/08/16/20/cheesecake-1578691_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/29819836/pexels-photo-29819836.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "chilis-birthday-dessert",
@@ -636,7 +604,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/08/08/16/20/cheesecake-1578691_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/5638516/pexels-photo-5638516.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "tgi-fridays-birthday-dessert",
@@ -666,12 +634,12 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/08/08/16/20/cheesecake-1578691_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/27819686/pexels-photo-27819686.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "baskin-robbins-birthday-scoop",
       "category": "birthday_reward",
-      "title": "Free 2.5 oz birthday scoop",
+      "title": "Free birthday ice cream scoop",
       "subtitle": "Baskin-Robbins Rewards",
       "brand": {
         "id": "baskin-robbins",
@@ -696,7 +664,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/16/16/13/ice-cream-cone-2648268_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/13133432/pexels-photo-13133432.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "cold-stone-bogo-creation",
@@ -725,7 +693,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/16/16/13/ice-cream-cone-2648268_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/16068057/pexels-photo-16068057.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "ben-jerrys-flavor-fanatics-scoop",
@@ -754,7 +722,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/16/16/13/ice-cream-cone-2648268_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/9227980/pexels-photo-9227980.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "crumbl-birthday-cookie",
@@ -790,7 +758,7 @@
       "id": "jamba-birthday-smoothie",
       "category": "birthday_reward",
       "title": "Free birthday smoothie",
-      "subtitle": "Small smoothie after $10 spend, Jamba Rewards",
+      "subtitle": "Jamba Rewards - $10 spend",
       "brand": {
         "id": "jamba",
         "name": "Jamba",
@@ -844,13 +812,13 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/06/10/21/57/fruit-smoothie-1448975_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/17612783/pexels-photo-17612783.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "tropical-smoothie-birthday",
       "category": "birthday_reward",
       "title": "Free birthday smoothie",
-      "subtitle": "Tropic Rewards",
+      "subtitle": "Supercharged-tier reward, Tropic Rewards",
       "brand": {
         "id": "tropical-smoothie",
         "name": "Tropical Smoothie Cafe",
@@ -864,7 +832,7 @@
       "redemptionUrl": "https://www.tropicalsmoothiecafe.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-03"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -874,7 +842,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/06/10/21/57/fruit-smoothie-1448975_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/15126557/pexels-photo-15126557.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "dq-birthday-blizzard",
@@ -904,7 +872,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/16/16/13/ice-cream-cone-2648268_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/6413587/pexels-photo-6413587.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "yogurtland-birthday-treat",
@@ -934,7 +902,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/16/16/13/ice-cream-cone-2648268_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/14525431/pexels-photo-14525431.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "jersey-mikes-birthday-shore-points",
@@ -993,13 +961,13 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/09/13/16/08/cosmetics-2746013_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/7290642/pexels-photo-7290642.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "mac-birthday-gift",
       "category": "birthday_reward",
       "title": "Birthday gift bag",
-      "subtitle": "MAC Lover",
+      "subtitle": "MAC Lover (Silver+ tier)",
       "brand": {
         "id": "mac",
         "name": "MAC Cosmetics",
@@ -1013,7 +981,7 @@
       "redemptionUrl": "https://www.maccosmetics.com/mac-lover",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-03"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -1023,7 +991,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/09/13/16/08/cosmetics-2746013_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/7810637/pexels-photo-7810637.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "kiehls-birthday",
@@ -1052,7 +1020,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/05/25/11/30/cosmetics-packaging-353541_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/374638/pexels-photo-374638.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "sally-beauty-birthday",
@@ -1081,7 +1049,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2015/07/01/03/13/shampoo-827141_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/7440054/pexels-photo-7440054.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "bath-body-works-birthday",
@@ -1140,7 +1108,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/05/25/11/30/cosmetics-packaging-353541_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/36146499/pexels-photo-36146499.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "lush-birthday-voucher",
@@ -1170,7 +1138,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/05/25/11/30/cosmetics-packaging-353541_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/374847/pexels-photo-374847.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "elf-birthday-gift",
@@ -1199,7 +1167,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/09/13/16/08/cosmetics-2746013_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/34321279/pexels-photo-34321279.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "origins-birthday",
@@ -1228,7 +1196,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/05/25/11/30/cosmetics-packaging-353541_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/7321654/pexels-photo-7321654.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "dsw-birthday-reward",
@@ -1286,13 +1254,13 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/19/15/40/clothes-1839935_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/14666446/pexels-photo-14666446.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "world-market-birthday",
       "category": "birthday_reward",
-      "title": "Birthday surprise offer",
-      "subtitle": "Explorer Rewards",
+      "title": "$10-15 birthday coupon",
+      "subtitle": "World Market Rewards",
       "brand": {
         "id": "world-market",
         "name": "World Market",
@@ -1315,13 +1283,13 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/11/06/18/50/living-room-519682_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/5865772/pexels-photo-5865772.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "petsmart-birthday-points",
       "category": "birthday_reward",
-      "title": "1,000 bonus pet points",
-      "subtitle": "Treats Rewards",
+      "title": "Birthday bonus points",
+      "subtitle": "1,000 pts + 2x on treats, Treats Rewards",
       "brand": {
         "id": "petsmart",
         "name": "PetSmart",
@@ -1335,7 +1303,7 @@
       "redemptionUrl": "https://www.petsmart.com/learning-center/treats-rewards/petsmart-treats-rewards-birthday-and-gotcha-gift",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-03"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -1348,7 +1316,7 @@
     {
       "id": "old-navy-birthday",
       "category": "birthday_reward",
-      "title": "Birthday gift, month",
+      "title": "10-30% off birthday reward",
       "subtitle": "Navyist Rewards",
       "brand": {
         "id": "old-navy",
@@ -1371,13 +1339,13 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/19/15/40/clothes-1839935_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/20054237/pexels-photo-20054237.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "gap-birthday",
       "category": "birthday_reward",
-      "title": "Birthday bonus gift",
-      "subtitle": "Encore (Gap)",
+      "title": "Birthday bonus gift + 15-20% off",
+      "subtitle": "Encore (Gap Good Rewards rebrand)",
       "brand": {
         "id": "gap",
         "name": "Gap",
@@ -1391,7 +1359,7 @@
       "redemptionUrl": "https://www.gap.com/customer-service/gap-good-rewards?cid=1099008",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-03"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -1400,7 +1368,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/19/15/40/clothes-1839935_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/7236120/pexels-photo-7236120.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "american-eagle-birthday",
@@ -1428,7 +1396,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/19/15/40/clothes-1839935_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/2129970/pexels-photo-2129970.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "macys-birthday",
@@ -1457,7 +1425,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/10/30/18/38/shopping-mall-509536_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/1666070/pexels-photo-1666070.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "amc-birthday-popcorn",
@@ -1517,7 +1485,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/12/06/07/42/cinema-3001163_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/8590230/pexels-photo-8590230.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "dave-busters-birthday",
@@ -1577,7 +1545,7 @@
         "birthday"
       ],
       "claimType": "birthday",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/03/06/12/26/pinball-280786_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/17370315/pexels-photo-17370315.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "yard-house-birthday-dessert",
@@ -1594,7 +1562,7 @@
       "birthday": {
         "signupLeadTimeDays": 10
       },
-      "redemptionUrl": "https://www.yardhouse.com/special-offers",
+      "redemptionUrl": "https://www.yardhouse.com/customer-service/join-eclub",
       "verification": {
         "status": "published",
         "lastVerifiedAt": "2026-05-31"
@@ -1606,7 +1574,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/08/08/16/20/cheesecake-1578691_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/11867534/pexels-photo-11867534.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "pf-changs-birthday-dessert",
@@ -1636,12 +1604,12 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/08/08/16/20/cheesecake-1578691_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/34912738/pexels-photo-34912738.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "ihop-national-pancake-day-2026",
       "category": "free_event",
-      "title": "National Pancake Day",
+      "title": "National Pancake Day - Mar 3",
       "subtitle": "Free short stack at IHOP",
       "brand": {
         "id": "ihop",
@@ -1665,13 +1633,13 @@
         "pancakes"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908_1280.jpg",
+      "imageUrl": "https://images.pexels.com/photos/16710367/pexels-photo-16710367.jpeg?auto=compress&cs=tinysrgb&w=900",
       "expiresAt": "2026-03-03"
     },
     {
       "id": "ritas-first-day-of-spring-2026",
       "category": "free_event",
-      "title": "First day of spring",
+      "title": "First Day of Spring - Mar 20",
       "subtitle": "Free Italian ice at Rita's",
       "brand": {
         "id": "ritas",
@@ -1695,13 +1663,13 @@
         "spring"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/16/16/13/ice-cream-cone-2648268_1280.jpg",
+      "imageUrl": "https://images.pexels.com/photos/12497795/pexels-photo-12497795.jpeg?auto=compress&cs=tinysrgb&w=900",
       "expiresAt": "2026-03-20"
     },
     {
       "id": "ben-jerrys-free-cone-day-2026",
       "category": "free_event",
-      "title": "Free Cone Day",
+      "title": "Free Cone Day - Apr 14",
       "subtitle": "Free scoop at Ben & Jerry's",
       "brand": {
         "id": "ben-jerrys",
@@ -1725,13 +1693,13 @@
         "scoop"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/16/16/13/ice-cream-cone-2648268_1280.jpg",
+      "imageUrl": "https://images.pexels.com/photos/126790/pexels-photo-126790.jpeg?auto=compress&cs=tinysrgb&w=900",
       "expiresAt": "2026-04-14"
     },
     {
       "id": "wawa-day-2026",
       "category": "free_event",
-      "title": "Wawa Day",
+      "title": "Wawa Day - Apr 16",
       "subtitle": "Free any-size hot coffee at Wawa",
       "brand": {
         "id": "wawa",
@@ -1755,13 +1723,13 @@
         "anniversary"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/03/27/14/18/coffee-2179028_1280.jpg",
+      "imageUrl": "https://images.pexels.com/photos/30663149/pexels-photo-30663149.jpeg?auto=compress&cs=tinysrgb&w=900",
       "expiresAt": "2026-04-16"
     },
     {
       "id": "auntie-annes-national-pretzel-day-2026",
       "category": "free_event",
-      "title": "National Pretzel Day",
+      "title": "National Pretzel Day - Apr 26",
       "subtitle": "Free pretzel at Auntie Anne's",
       "brand": {
         "id": "auntie-annes",
@@ -1785,13 +1753,13 @@
         "snack"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/09/06/16/18/pretzels-1649483_1280.jpg",
+      "imageUrl": "https://images.pexels.com/photos/1571074/pexels-photo-1571074.jpeg?auto=compress&cs=tinysrgb&w=900",
       "expiresAt": "2026-04-26"
     },
     {
       "id": "free-comic-book-day-2026",
       "category": "free_event",
-      "title": "Free Comic Book Day",
+      "title": "Free Comic Book Day - May 2",
       "subtitle": "Free comics at participating shops",
       "brand": {
         "id": "free-comic-book-day",
@@ -1815,13 +1783,13 @@
         "hobby"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/11/09/21/44/teddy-bear-524251_1280.jpg",
+      "imageUrl": "https://images.pexels.com/photos/12113866/pexels-photo-12113866.jpeg?auto=compress&cs=tinysrgb&w=900",
       "expiresAt": "2026-05-02"
     },
     {
       "id": "national-donut-day-2026",
       "category": "free_event",
-      "title": "National Donut Day",
+      "title": "National Donut Day - Jun 5",
       "subtitle": "Free donut at Dunkin' and Krispy Kreme",
       "brand": {
         "id": "dunkin",
@@ -1845,13 +1813,13 @@
         "breakfast"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/30/13/26/donuts-2697081_1280.jpg",
+      "imageUrl": "https://images.pexels.com/photos/37220991/pexels-photo-37220991.jpeg?auto=compress&cs=tinysrgb&w=900",
       "expiresAt": "2026-06-05"
     },
     {
       "id": "national-french-fry-day-2026",
       "category": "free_event",
-      "title": "National French Fry Day",
+      "title": "National French Fry Day - Jul 10",
       "subtitle": "Free fries at McDonald's",
       "brand": {
         "id": "mcdonalds",
@@ -1866,7 +1834,7 @@
       "redemptionUrl": "https://www.mcdonalds.com/us/en-us/deals.html",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-03"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -1875,13 +1843,13 @@
         "fast-food"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2018/12/13/09/02/burger-3872456_1280.jpg",
-      "expiresAt": "2026-07-13"
+      "imageUrl": "https://images.pexels.com/photos/17354196/pexels-photo-17354196.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "expiresAt": "2026-07-10"
     },
     {
       "id": "free-slurpee-day-2026",
       "category": "free_event",
-      "title": "Free Slurpee Day",
+      "title": "Free Slurpee Day - Jul 11",
       "subtitle": "Free small Slurpee at 7-Eleven",
       "brand": {
         "id": "seven-eleven",
@@ -1905,13 +1873,13 @@
         "summer"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/06/10/21/57/fruit-smoothie-1448975_1280.jpg",
+      "imageUrl": "https://images.pexels.com/photos/11427521/pexels-photo-11427521.jpeg?auto=compress&cs=tinysrgb&w=900",
       "expiresAt": "2026-07-11"
     },
     {
       "id": "chick-fil-a-cow-appreciation-day-2026",
       "category": "free_event",
-      "title": "Cow Appreciation Day",
+      "title": "Cow Appreciation Day - Jul 14",
       "subtitle": "Free entree at Chick-fil-A, cow attire required",
       "brand": {
         "id": "chick-fil-a",
@@ -1935,13 +1903,13 @@
         "costume"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2018/12/13/09/02/burger-3872456_1280.jpg",
+      "imageUrl": "https://images.pexels.com/photos/34407059/pexels-photo-34407059.jpeg?auto=compress&cs=tinysrgb&w=900",
       "expiresAt": "2026-07-14"
     },
     {
       "id": "national-ice-cream-day-2026",
       "category": "free_event",
-      "title": "National Ice Cream Day",
+      "title": "National Ice Cream Day - Jul 19",
       "subtitle": "Free Dilly Bar at Dairy Queen",
       "brand": {
         "id": "dq",
@@ -1965,13 +1933,13 @@
         "summer"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/16/16/13/ice-cream-cone-2648268_1280.jpg",
+      "imageUrl": "https://images.pexels.com/photos/7761650/pexels-photo-7761650.jpeg?auto=compress&cs=tinysrgb&w=900",
       "expiresAt": "2026-07-19"
     },
     {
       "id": "national-coffee-day-2026",
       "category": "free_event",
-      "title": "National Coffee Day",
+      "title": "National Coffee Day - Sep 29",
       "subtitle": "Free any-size coffee at Wawa",
       "brand": {
         "id": "wawa",
@@ -1995,7 +1963,7 @@
         "fall"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/03/27/14/18/coffee-2179028_1280.jpg",
+      "imageUrl": "https://images.pexels.com/photos/20204675/pexels-photo-20204675.jpeg?auto=compress&cs=tinysrgb&w=900",
       "expiresAt": "2026-09-29"
     },
     {
@@ -2025,7 +1993,7 @@
         "free-drink"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/03/27/14/18/coffee-2179028_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/31711944/pexels-photo-31711944.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "krispy-kreme-signup-free-doughnut",
@@ -2054,7 +2022,7 @@
         "free-item"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/30/13/26/donuts-2697081_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/9619309/pexels-photo-9619309.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "panera-signup-free-pastry",
@@ -2083,7 +2051,7 @@
         "free-item"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2018/11/02/20/54/bagels-3791063_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/20002837/pexels-photo-20002837.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "ihop-signup-free-pancakes",
@@ -2112,7 +2080,7 @@
         "breakfast"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/30299143/pexels-photo-30299143.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "dennys-signup-welcome-item",
@@ -2141,7 +2109,7 @@
         "free-item"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/15805757/pexels-photo-15805757.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "bww-signup-free-burger",
@@ -2170,7 +2138,7 @@
         "free-item"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2018/12/13/09/02/burger-3872456_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/36750270/pexels-photo-36750270.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "cold-stone-signup-bogo",
@@ -2199,7 +2167,7 @@
         "bogo"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/16/16/13/ice-cream-cone-2648268_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/8104733/pexels-photo-8104733.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "bbw-signup-coupon",
@@ -2228,7 +2196,7 @@
         "coupon"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/08/17/20/24/perfume-420174_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/5798000/pexels-photo-5798000.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "kiehls-signup-bonus-points",
@@ -2257,7 +2225,7 @@
         "points"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/05/25/11/30/cosmetics-packaging-353541_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/3762879/pexels-photo-3762879.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "mac-lover-signup-discount",
@@ -2286,7 +2254,7 @@
         "discount"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/09/13/16/08/cosmetics-2746013_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/4620875/pexels-photo-4620875.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "origins-signup-welcome-offer",
@@ -2315,7 +2283,7 @@
         "discount"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/05/25/11/30/cosmetics-packaging-353541_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/8131568/pexels-photo-8131568.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "pf-changs-signup-edamame",
@@ -2344,7 +2312,7 @@
         "free-item"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/08/08/16/20/cheesecake-1578691_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/29935499/pexels-photo-29935499.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "ulta-birthday-2x-points",
@@ -2374,7 +2342,7 @@
         "points"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/09/13/16/08/cosmetics-2746013_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/7256082/pexels-photo-7256082.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "outback-birthday-dessert-month",
@@ -2403,7 +2371,7 @@
         "dining"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/08/08/16/20/cheesecake-1578691_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/27359379/pexels-photo-27359379.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "dq-birthday-monthly-blizzard",
@@ -2432,7 +2400,7 @@
         "dessert"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/16/16/13/ice-cream-cone-2648268_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/12381454/pexels-photo-12381454.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "build-a-bear-pay-your-age-month",
@@ -2461,7 +2429,7 @@
         "kids"
       ],
       "claimType": "birthday",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/11/09/21/44/teddy-bear-524251_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/4887162/pexels-photo-4887162.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "bbw-birthday-reward-30-days",
@@ -2490,7 +2458,7 @@
         "beauty"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/08/17/20/24/perfume-420174_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/374071/pexels-photo-374071.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "mac-birthday-2x-3x-points",
@@ -2520,7 +2488,7 @@
         "points"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/09/13/16/08/cosmetics-2746013_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/7290632/pexels-photo-7290632.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "hot-topic-birthday-credit-45-days",
@@ -2549,7 +2517,7 @@
         "retail"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/19/15/40/clothes-1839935_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/28774730/pexels-photo-28774730.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "amc-birthday-popcorn-month",
@@ -2578,12 +2546,12 @@
         "movies"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/12/06/07/42/cinema-3001163_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/7234384/pexels-photo-7234384.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "world-market-birthday-15-off",
       "category": "birthday_reward",
-      "title": "15% off birthday month",
+      "title": "15% off birthday-month purchase",
       "subtitle": "World Market Rewards",
       "brand": {
         "id": "world-market",
@@ -2607,7 +2575,7 @@
         "retail"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/11/06/18/50/living-room-519682_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/34688219/pexels-photo-34688219.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "pf-changs-birthday-app-month",
@@ -2636,7 +2604,7 @@
         "dining"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/08/08/16/20/cheesecake-1578691_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/7287696/pexels-photo-7287696.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "dsw-vip-birthday-bonus-month",
@@ -2665,7 +2633,7 @@
         "retail"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2015/02/13/00/15/shoes-634530_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/1027130/pexels-photo-1027130.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "buffalo-wild-wings-birthday-wings",
@@ -2694,7 +2662,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/03/27/16/50/chicken-wings-2178498_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/7734563/pexels-photo-7734563.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "jersey-mikes-birthday-sub",
@@ -2723,7 +2691,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/02/15/10/57/sandwich-2068056_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/34593405/pexels-photo-34593405.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "firehouse-subs-birthday-sub",
@@ -2752,7 +2720,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/02/15/10/57/sandwich-2068056_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/34593399/pexels-photo-34593399.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "jimmy-johns-birthday-sandwich",
@@ -2781,7 +2749,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/02/15/10/57/sandwich-2068056_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/11047123/pexels-photo-11047123.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "hooters-birthday-wings",
@@ -2809,7 +2777,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/03/27/16/50/chicken-wings-2178498_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/31228748/pexels-photo-31228748.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "bojangles-birthday-bo-berry",
@@ -2826,7 +2794,7 @@
       "birthday": {
         "signupLeadTimeDays": 14
       },
-      "redemptionUrl": "https://www.bojangles.com/account/signup",
+      "redemptionUrl": "https://www.bojangles.com/app/",
       "verification": {
         "status": "published",
         "lastVerifiedAt": "2026-05-31"
@@ -2837,12 +2805,12 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/06/05/12/16/biscuits-2374944_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/31513671/pexels-photo-31513671.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "chipotle-birthday-treat",
       "category": "birthday_reward",
-      "title": "Free birthday treat",
+      "title": "Free chips, guac, queso, or drink",
       "subtitle": "Chips, guac, queso, or drink with $5+ app order",
       "brand": {
         "id": "chipotle",
@@ -2857,7 +2825,7 @@
       "redemptionUrl": "https://www.chipotle.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-03"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -2866,7 +2834,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/12/11/02/55/burrito-563469_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/34831904/pexels-photo-34831904.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "wendys-birthday-frosty",
@@ -2895,7 +2863,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/04/05/17/01/ice-cream-1309064_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/35832472/pexels-photo-35832472.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "moes-birthday-burrito",
@@ -2924,7 +2892,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/12/11/02/55/burrito-563469_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/5848057/pexels-photo-5848057.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "qdoba-birthday-queso",
@@ -2953,7 +2921,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/12/11/02/55/burrito-563469_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/12557546/pexels-photo-12557546.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "noodles-birthday-dessert",
@@ -2982,7 +2950,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2019/12/17/18/20/cake-4702866_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/9189264/pexels-photo-9189264.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "cold-stone-birthday-bogo",
@@ -3010,7 +2978,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/04/05/17/01/ice-cream-1309064_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/12381455/pexels-photo-12381455.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "carvel-birthday-cone",
@@ -3038,7 +3006,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/04/05/17/01/ice-cream-1309064_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/16962446/pexels-photo-16962446.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "cinnabon-birthday-coldbrew",
@@ -3066,7 +3034,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/03/27/14/18/coffee-2179028_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/8980388/pexels-photo-8980388.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "whataburger-birthday-pick",
@@ -3124,7 +3092,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2019/12/17/18/20/cake-4702866_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/31116124/pexels-photo-31116124.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "panda-express-birthday-entree",
@@ -3153,7 +3121,7 @@
         "birthday"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2018/04/16/05/24/chinese-food-3324638_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/6646262/pexels-photo-6646262.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "dsw-birthday-discount",
@@ -3181,7 +3149,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/01/08/29/people-2563494_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/30313904/pexels-photo-30313904.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "target-circle-birthday",
@@ -3209,7 +3177,7 @@
         "birthday"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/08/26/21/49/shopping-428649_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/6956906/pexels-photo-6956906.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "noodles-signup-entree",
@@ -3238,7 +3206,7 @@
         "signup-bonus"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2019/12/17/18/20/cake-4702866_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/28481038/pexels-photo-28481038.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "qdoba-signup-queso",
@@ -3267,7 +3235,7 @@
         "signup-bonus"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/12/11/02/55/burrito-563469_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/17471605/pexels-photo-17471605.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "moes-signup-queso",
@@ -3296,7 +3264,7 @@
         "signup-bonus"
       ],
       "claimType": "app",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/12/11/02/55/burrito-563469_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/27603253/pexels-photo-27603253.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "cold-stone-signup-creation",
@@ -3324,7 +3292,7 @@
         "signup-bonus"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/04/05/17/01/ice-cream-1309064_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/1683546/pexels-photo-1683546.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "rei-coop-membership-bonus",
@@ -3352,7 +3320,7 @@
         "signup-bonus"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2015/05/15/14/35/clothes-768596_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/1178525/pexels-photo-1178525.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "bojangles-signup-tea",
@@ -3369,7 +3337,7 @@
       "birthday": {
         "signupLeadTimeDays": 0
       },
-      "redemptionUrl": "https://www.bojangles.com/account/signup",
+      "redemptionUrl": "https://www.bojangles.com/app/",
       "verification": {
         "status": "published",
         "lastVerifiedAt": "2026-05-31"
@@ -3380,7 +3348,7 @@
         "signup-bonus"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/05/21/15/00/tea-349661_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/6209634/pexels-photo-6209634.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "world-market-signup-coupon",
@@ -3408,7 +3376,7 @@
         "signup-bonus"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/08/26/21/49/shopping-428649_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/5650023/pexels-photo-5650023.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "pinchme-free-samples",
@@ -3437,7 +3405,7 @@
         "sample"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/01/26/02/06/skin-care-2009767_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/7801874/pexels-photo-7801874.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "pg-good-everyday-samples",
@@ -3465,7 +3433,7 @@
         "sample"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/01/26/02/06/skin-care-2009767_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/5217889/pexels-photo-5217889.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "send-me-a-sample-alexa",
@@ -3494,7 +3462,7 @@
         "sample"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/01/26/02/06/skin-care-2009767_1280.jpg"
+      "imageUrl": "https://images.pexels.com/photos/6958448/pexels-photo-6958448.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "sample-source-box",
@@ -3523,42 +3491,12 @@
         "sample"
       ],
       "claimType": "signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/01/26/02/06/skin-care-2009767_1280.jpg"
-    },
-    {
-      "id": "national-pumpkin-day-2026",
-      "category": "free_event",
-      "title": "National Pumpkin Day",
-      "subtitle": "Free pumpkin spice doughnut at Krispy Kreme",
-      "brand": {
-        "id": "krispy-kreme",
-        "name": "Krispy Kreme",
-        "color": "#006341",
-        "logoUrl": "krispykreme.com"
-      },
-      "valueCents": 200,
-      "birthday": {
-        "signupLeadTimeDays": 0
-      },
-      "redemptionUrl": "https://www.krispykreme.com",
-      "verification": {
-        "status": "published",
-        "lastVerifiedAt": "2026-05-31"
-      },
-      "addedAt": "2026-05-31",
-      "tags": [
-        "free-day",
-        "donuts",
-        "fall"
-      ],
-      "claimType": "no_signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/30/13/26/donuts-2697081_1280.jpg",
-      "expiresAt": "2026-10-26"
+      "imageUrl": "https://images.pexels.com/photos/6707195/pexels-photo-6707195.jpeg?auto=compress&cs=tinysrgb&w=900"
     },
     {
       "id": "national-cookie-day-2026",
       "category": "free_event",
-      "title": "National Cookie Day",
+      "title": "National Cookie Day - Dec 4",
       "subtitle": "Free chocolate chip cookie at Great American Cookies",
       "brand": {
         "id": "great-american-cookies",
@@ -3582,13 +3520,13 @@
         "dessert"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2015/05/07/15/08/cookie-756601_1280.jpg",
+      "imageUrl": "https://images.pexels.com/photos/30759934/pexels-photo-30759934.jpeg?auto=compress&cs=tinysrgb&w=900",
       "expiresAt": "2026-12-04"
     },
     {
       "id": "national-bagel-day-2027",
       "category": "free_event",
-      "title": "National Bagel Day",
+      "title": "National Bagel Day - Jan 15",
       "subtitle": "Free bagel with shmear at Einstein Bros",
       "brand": {
         "id": "einstein-bros",
@@ -3612,13 +3550,13 @@
         "bagel"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2018/11/02/20/54/bagels-3791063_1280.jpg",
+      "imageUrl": "https://images.pexels.com/photos/24796900/pexels-photo-24796900.jpeg?auto=compress&cs=tinysrgb&w=900",
       "expiresAt": "2027-01-15"
     },
     {
       "id": "random-acts-of-kindness-day-2027",
       "category": "free_event",
-      "title": "Random Acts of Kindness Day",
+      "title": "Random Acts of Kindness Day - Feb 17",
       "subtitle": "Free Original Glazed at Krispy Kreme",
       "brand": {
         "id": "krispy-kreme",
@@ -3642,8 +3580,339 @@
         "winter"
       ],
       "claimType": "no_signup",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/08/30/13/26/donuts-2697081_1280.jpg",
+      "imageUrl": "https://images.pexels.com/photos/7034529/pexels-photo-7034529.jpeg?auto=compress&cs=tinysrgb&w=900",
       "expiresAt": "2027-02-17"
+    },
+    {
+      "id": "chick-fil-a-birthday-reward",
+      "category": "birthday_reward",
+      "title": "Free birthday dessert",
+      "subtitle": "Cookie or brownie, Chick-fil-A One",
+      "brand": {
+        "id": "chick-fil-a",
+        "name": "Chick-fil-A",
+        "color": "#DD0031",
+        "logoUrl": "https://img.logo.dev/chick-fil-a.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+      },
+      "valueCents": 295,
+      "birthday": {
+        "signupLeadTimeDays": 14
+      },
+      "redemptionUrl": "https://www.chick-fil-a.com/one",
+      "verification": {
+        "status": "published",
+        "lastVerifiedAt": "2026-06-03"
+      },
+      "addedAt": "2026-06-03",
+      "tags": [
+        "fast-food",
+        "dessert",
+        "app",
+        "birthday"
+      ],
+      "claimType": "app",
+      "imageUrl": "https://images.pexels.com/photos/4109996/pexels-photo-4109996.jpeg?auto=compress&cs=tinysrgb&w=900"
+    },
+    {
+      "id": "taco-bell-birthday-reward",
+      "category": "birthday_reward",
+      "title": "Free birthday item",
+      "subtitle": "Crunchy Taco or rotating reward, Taco Bell Rewards",
+      "brand": {
+        "id": "taco-bell",
+        "name": "Taco Bell",
+        "color": "#702082",
+        "logoUrl": "https://img.logo.dev/tacobell.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+      },
+      "valueCents": 199,
+      "birthday": {
+        "signupLeadTimeDays": 30
+      },
+      "redemptionUrl": "https://www.tacobell.com/rewards",
+      "verification": {
+        "status": "published",
+        "lastVerifiedAt": "2026-06-03"
+      },
+      "addedAt": "2026-06-03",
+      "tags": [
+        "fast-food",
+        "taco",
+        "app",
+        "birthday"
+      ],
+      "claimType": "app",
+      "imageUrl": "https://images.pexels.com/photos/8230099/pexels-photo-8230099.jpeg?auto=compress&cs=tinysrgb&w=900"
+    },
+    {
+      "id": "olive-garden-birthday-dessert",
+      "category": "birthday_reward",
+      "title": "Free birthday dessert",
+      "subtitle": "Olive Garden eClub",
+      "brand": {
+        "id": "olive-garden",
+        "name": "Olive Garden",
+        "color": "#5D8233",
+        "logoUrl": "https://img.logo.dev/olivegarden.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+      },
+      "valueCents": 899,
+      "birthday": {
+        "signupLeadTimeDays": 14
+      },
+      "redemptionUrl": "https://www.olivegarden.com/customer-service/join-eclub",
+      "verification": {
+        "status": "published",
+        "lastVerifiedAt": "2026-06-03"
+      },
+      "addedAt": "2026-06-03",
+      "tags": [
+        "italian",
+        "dessert",
+        "dine-in",
+        "birthday"
+      ],
+      "claimType": "signup",
+      "imageUrl": "https://images.pexels.com/photos/14755944/pexels-photo-14755944.jpeg?auto=compress&cs=tinysrgb&w=900"
+    },
+    {
+      "id": "sonic-birthday-reward",
+      "category": "birthday_reward",
+      "title": "Free corn dog or small shake",
+      "subtitle": "All birthday month, Sonic Rewards",
+      "brand": {
+        "id": "sonic",
+        "name": "Sonic Drive-In",
+        "color": "#F9A11B",
+        "logoUrl": "https://img.logo.dev/sonicdrivein.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+      },
+      "valueCents": 299,
+      "birthday": {
+        "signupLeadTimeDays": 30
+      },
+      "redemptionUrl": "https://www.sonicdrivein.com/",
+      "verification": {
+        "status": "published",
+        "lastVerifiedAt": "2026-06-03"
+      },
+      "addedAt": "2026-06-03",
+      "tags": [
+        "fast-food",
+        "shake",
+        "drive-in",
+        "app",
+        "birthday"
+      ],
+      "claimType": "app",
+      "imageUrl": "https://images.pexels.com/photos/2271107/pexels-photo-2271107.jpeg?auto=compress&cs=tinysrgb&w=900"
+    },
+    {
+      "id": "burger-king-birthday-reward",
+      "category": "birthday_reward",
+      "title": "Free birthday item + 2x Crowns",
+      "subtitle": "Royal Perks, 30-day window",
+      "brand": {
+        "id": "burger-king",
+        "name": "Burger King",
+        "color": "#D62300",
+        "logoUrl": "https://img.logo.dev/bk.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+      },
+      "valueCents": 399,
+      "birthday": {
+        "signupLeadTimeDays": 14
+      },
+      "redemptionUrl": "https://www.bk.com/royalperks",
+      "verification": {
+        "status": "published",
+        "lastVerifiedAt": "2026-06-03"
+      },
+      "addedAt": "2026-06-03",
+      "tags": [
+        "fast-food",
+        "burger",
+        "app",
+        "birthday"
+      ],
+      "claimType": "app",
+      "imageUrl": "https://images.pexels.com/photos/3219547/pexels-photo-3219547.jpeg?auto=compress&cs=tinysrgb&w=900"
+    },
+    {
+      "id": "cvs-birthday-extrabucks",
+      "category": "birthday_reward",
+      "title": "$3 ExtraBucks reward",
+      "subtitle": "CVS ExtraCare, 30-day redemption",
+      "brand": {
+        "id": "cvs",
+        "name": "CVS",
+        "color": "#CC0000",
+        "logoUrl": "https://img.logo.dev/cvs.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+      },
+      "valueCents": 300,
+      "birthday": {
+        "signupLeadTimeDays": 30
+      },
+      "redemptionUrl": "https://www.cvs.com/extracare/overview",
+      "verification": {
+        "status": "published",
+        "lastVerifiedAt": "2026-06-03"
+      },
+      "addedAt": "2026-06-03",
+      "tags": [
+        "drugstore",
+        "rewards",
+        "birthday"
+      ],
+      "claimType": "signup",
+      "imageUrl": "https://images.pexels.com/photos/6213127/pexels-photo-6213127.jpeg?auto=compress&cs=tinysrgb&w=900"
+    },
+    {
+      "id": "pink-birthday-reward",
+      "category": "birthday_reward",
+      "title": "$10 birthday reward",
+      "subtitle": "Victoria's Secret & PINK Rewards",
+      "brand": {
+        "id": "pink-vs",
+        "name": "Victoria's Secret PINK",
+        "color": "#E0218A",
+        "logoUrl": "https://img.logo.dev/victoriassecret.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+      },
+      "valueCents": 1000,
+      "birthday": {
+        "signupLeadTimeDays": 14
+      },
+      "redemptionUrl": "https://www.victoriassecret.com/us/rewards",
+      "verification": {
+        "status": "published",
+        "lastVerifiedAt": "2026-06-03"
+      },
+      "addedAt": "2026-06-03",
+      "tags": [
+        "fashion",
+        "apparel",
+        "birthday"
+      ],
+      "claimType": "signup",
+      "imageUrl": "https://images.pexels.com/photos/7679720/pexels-photo-7679720.jpeg?auto=compress&cs=tinysrgb&w=900"
+    },
+    {
+      "id": "national-pizza-day-2027",
+      "category": "free_event",
+      "title": "National Pizza Day - Feb 9",
+      "subtitle": "Free large pizza at Pizza Hut (next-order)",
+      "brand": {
+        "id": "pizza-hut",
+        "name": "Pizza Hut",
+        "color": "#EE3124",
+        "logoUrl": "https://img.logo.dev/pizzahut.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+      },
+      "valueCents": 1000,
+      "birthday": {
+        "signupLeadTimeDays": 0
+      },
+      "redemptionUrl": "https://www.pizzahut.com/",
+      "verification": {
+        "status": "published",
+        "lastVerifiedAt": "2026-06-03"
+      },
+      "addedAt": "2026-06-03",
+      "tags": [
+        "free-day",
+        "pizza",
+        "winter"
+      ],
+      "claimType": "app",
+      "imageUrl": "https://images.pexels.com/photos/4109111/pexels-photo-4109111.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "expiresAt": "2027-02-09"
+    },
+    {
+      "id": "pi-day-2027",
+      "category": "free_event",
+      "title": "Pi Day - Mar 14",
+      "subtitle": "$3.14 pies at Blaze + Pizza Hut BOGO",
+      "brand": {
+        "id": "blaze-pizza",
+        "name": "Blaze Pizza",
+        "color": "#FF3B30",
+        "logoUrl": "https://img.logo.dev/blazepizza.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+      },
+      "valueCents": 800,
+      "birthday": {
+        "signupLeadTimeDays": 0
+      },
+      "redemptionUrl": "https://www.blazepizza.com/",
+      "verification": {
+        "status": "published",
+        "lastVerifiedAt": "2026-06-03"
+      },
+      "addedAt": "2026-06-03",
+      "tags": [
+        "free-day",
+        "pizza",
+        "spring"
+      ],
+      "claimType": "no_signup",
+      "imageUrl": "https://images.pexels.com/photos/845811/pexels-photo-845811.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "expiresAt": "2027-03-14"
+    },
+    {
+      "id": "national-cheeseburger-day-2026",
+      "category": "free_event",
+      "title": "National Cheeseburger Day - Sep 18",
+      "subtitle": "Free bacon cheeseburger at BK Royal Perks",
+      "brand": {
+        "id": "burger-king",
+        "name": "Burger King",
+        "color": "#D62300",
+        "logoUrl": "https://img.logo.dev/bk.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+      },
+      "valueCents": 399,
+      "birthday": {
+        "signupLeadTimeDays": 1
+      },
+      "redemptionUrl": "https://www.bk.com/royalperks",
+      "verification": {
+        "status": "published",
+        "lastVerifiedAt": "2026-06-03"
+      },
+      "addedAt": "2026-06-03",
+      "tags": [
+        "free-day",
+        "burger",
+        "fast-food",
+        "fall"
+      ],
+      "claimType": "app",
+      "imageUrl": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "expiresAt": "2026-09-18"
+    },
+    {
+      "id": "national-taco-day-2026",
+      "category": "free_event",
+      "title": "National Taco Day - Oct 6",
+      "subtitle": "Free tacos at Taco Bell + Jack in the Box",
+      "brand": {
+        "id": "taco-bell",
+        "name": "Taco Bell",
+        "color": "#702082",
+        "logoUrl": "https://img.logo.dev/tacobell.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=128&format=png"
+      },
+      "valueCents": 299,
+      "birthday": {
+        "signupLeadTimeDays": 1
+      },
+      "redemptionUrl": "https://www.tacobell.com/rewards",
+      "verification": {
+        "status": "published",
+        "lastVerifiedAt": "2026-06-03"
+      },
+      "addedAt": "2026-06-03",
+      "tags": [
+        "free-day",
+        "taco",
+        "fast-food",
+        "fall"
+      ],
+      "claimType": "app",
+      "imageUrl": "https://images.pexels.com/photos/2092507/pexels-photo-2092507.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "expiresAt": "2026-10-06"
     }
   ]
 }
