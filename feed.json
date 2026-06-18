@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedAt": "2026-06-03T20:49:46Z",
-  "count": 133,
+  "count": 117,
   "freebies": [
     {
       "id": "sephora-beauty-insider-birthday",
@@ -38,22 +38,22 @@
     {
       "id": "build-a-bear-count-your-candles",
       "category": "birthday_reward",
-      "title": "Pay your age for a Build-A-Bear",
-      "subtitle": "Count Your Candles - birthday month",
+      "title": "Pay your age for Birthday Treat Bear",
+      "subtitle": "Bonus Club, in-store only",
       "brand": {
         "id": "build-a-bear",
         "name": "Build-A-Bear",
         "color": "#E4002B",
         "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/build-a-bear.png"
       },
-      "valueCents": 2500,
+      "valueCents": null,
       "birthday": {
         "signupLeadTimeDays": 0
       },
       "redemptionUrl": "https://www.buildabear.com/birthday",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -70,8 +70,8 @@
     {
       "id": "starbucks-birthday-drink",
       "category": "birthday_reward",
-      "title": "Free birthday drink",
-      "subtitle": "Drink, food, or bottled item, Starbucks Rewards",
+      "title": "Free birthday reward",
+      "subtitle": "Prior purchase required",
       "brand": {
         "id": "starbucks",
         "name": "Starbucks",
@@ -85,7 +85,7 @@
       "redemptionUrl": "https://www.starbucks.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -103,7 +103,7 @@
       "id": "cheesecake-factory-birthday-slice",
       "category": "birthday_reward",
       "title": "Free slice with any purchase",
-      "subtitle": "Cheesecake Rewards",
+      "subtitle": "Purchase required",
       "brand": {
         "id": "cheesecake-factory",
         "name": "The Cheesecake Factory",
@@ -114,10 +114,10 @@
       "birthday": {
         "signupLeadTimeDays": 7
       },
-      "redemptionUrl": "https://www.thecheesecakefactory.com/rewards",
+      "redemptionUrl": "https://www.thecheesecakefactory.com/cheesecake-rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-06-03"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -134,22 +134,22 @@
     {
       "id": "krispy-kreme-birthday-doughnuts",
       "category": "birthday_reward",
-      "title": "Free 3-count of doughnuts",
-      "subtitle": "Krispy Kreme Rewards",
+      "title": "Birthday sweet treat",
+      "subtitle": "Reward may vary",
       "brand": {
         "id": "krispy-kreme",
         "name": "Krispy Kreme",
         "color": "#006341",
         "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/krispy-kreme.png"
       },
-      "valueCents": 400,
+      "valueCents": null,
       "birthday": {
-        "signupLeadTimeDays": 30
+        "signupLeadTimeDays": 7
       },
       "redemptionUrl": "https://www.krispykreme.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -166,22 +166,22 @@
     {
       "id": "dunkin-birthday-3x-points",
       "category": "birthday_reward",
-      "title": "3x birthday-month points",
-      "subtitle": "Dunkin Rewards",
+      "title": "Birthday points bonus",
+      "subtitle": "Points multiplier",
       "brand": {
         "id": "dunkin",
         "name": "Dunkin'",
         "color": "#FF671F",
         "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/dunkin.png"
       },
-      "valueCents": 400,
+      "valueCents": null,
       "birthday": {
         "signupLeadTimeDays": 7
       },
       "redemptionUrl": "https://www.dunkindonuts.com/en/dunkinrewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-06-03"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -197,7 +197,7 @@
       "id": "auntie-annes-birthday-pretzel",
       "category": "birthday_reward",
       "title": "Free birthday pretzel",
-      "subtitle": "Original or Cinnamon Sugar",
+      "subtitle": "Annual purchase required",
       "brand": {
         "id": "auntie-annes",
         "name": "Auntie Anne's",
@@ -211,7 +211,7 @@
       "redemptionUrl": "https://www.auntieannes.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -257,7 +257,7 @@
       "id": "caribou-birthday-drink",
       "category": "birthday_reward",
       "title": "Free birthday drink",
-      "subtitle": "Any handcrafted drink, any size, Perks",
+      "subtitle": "Caribou Perks birthday drink",
       "brand": {
         "id": "caribou",
         "name": "Caribou Coffee",
@@ -271,7 +271,7 @@
       "redemptionUrl": "https://www.cariboucoffee.com/caribou-perks/",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -287,7 +287,7 @@
       "id": "coffee-bean-birthday-drink",
       "category": "birthday_reward",
       "title": "Free birthday drink",
-      "subtitle": "Any handcrafted size, Coffee Bean Rewards",
+      "subtitle": "Coffee Bean Rewards",
       "brand": {
         "id": "coffee-bean",
         "name": "The Coffee Bean & Tea Leaf",
@@ -298,10 +298,10 @@
       "birthday": {
         "signupLeadTimeDays": 14
       },
-      "redemptionUrl": "https://coffeebeanrewards.com/",
+      "redemptionUrl": "https://www.coffeebean.com/pages/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -375,7 +375,7 @@
       "id": "einstein-bros-birthday-egg-sandwich",
       "category": "birthday_reward",
       "title": "Free egg sandwich",
-      "subtitle": "Shmear Society",
+      "subtitle": "Purchase required",
       "brand": {
         "id": "einstein-bros",
         "name": "Einstein Bros Bagels",
@@ -389,7 +389,7 @@
       "redemptionUrl": "https://www.einsteinbros.com/shmear-society-rewards/",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -433,22 +433,22 @@
     {
       "id": "dennys-birthday-grand-slam",
       "category": "birthday_reward",
-      "title": "Free Grand Slam breakfast",
-      "subtitle": "Denny's Rewards",
+      "title": "Birthday reward",
+      "subtitle": "Booth Rewards, varies",
       "brand": {
         "id": "dennys",
         "name": "Denny's",
         "color": "#FFCC00",
         "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/dennys.png"
       },
-      "valueCents": 999,
+      "valueCents": null,
       "birthday": {
         "signupLeadTimeDays": 7
       },
       "redemptionUrl": "https://www.dennys.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -462,22 +462,22 @@
     {
       "id": "outback-birthday-dessert",
       "category": "birthday_reward",
-      "title": "Free birthday dessert",
-      "subtitle": "Dine Rewards",
+      "title": "Birthday reward",
+      "subtitle": "Dine Rewards, details may vary",
       "brand": {
         "id": "outback",
         "name": "Outback Steakhouse",
         "color": "#AF272F",
         "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/outback.png"
       },
-      "valueCents": 999,
+      "valueCents": null,
       "birthday": {
         "signupLeadTimeDays": 14
       },
       "redemptionUrl": "https://www.dine-rewards.com/",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -491,22 +491,22 @@
     {
       "id": "texas-roadhouse-birthday-dessert",
       "category": "birthday_reward",
-      "title": "Free birthday dessert",
-      "subtitle": "VIP Club",
+      "title": "Birthday reward",
+      "subtitle": "VIP Club, reward varies",
       "brand": {
         "id": "texas-roadhouse",
         "name": "Texas Roadhouse",
         "color": "#B4252A",
         "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/texas-roadhouse.png"
       },
-      "valueCents": 699,
+      "valueCents": null,
       "birthday": {
         "signupLeadTimeDays": 14
       },
       "redemptionUrl": "https://www.texasroadhouse.com/vip-club",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-06-03"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -551,7 +551,7 @@
       "id": "applebees-birthday-dessert",
       "category": "birthday_reward",
       "title": "Free birthday dessert",
-      "subtitle": "Club Applebee's",
+      "subtitle": "$15 purchase required",
       "brand": {
         "id": "applebees",
         "name": "Applebee's",
@@ -565,7 +565,7 @@
       "redemptionUrl": "https://www.applebees.com/en/club-applebees",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -580,7 +580,7 @@
       "id": "chilis-birthday-dessert",
       "category": "birthday_reward",
       "title": "Free birthday dessert",
-      "subtitle": "No sharing required",
+      "subtitle": "My Chili's Rewards",
       "brand": {
         "id": "chilis",
         "name": "Chili's",
@@ -594,7 +594,7 @@
       "redemptionUrl": "https://www.chilis.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -605,36 +605,6 @@
       ],
       "claimType": "app",
       "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/chilis-birthday-dessert.jpg"
-    },
-    {
-      "id": "tgi-fridays-birthday-dessert",
-      "category": "birthday_reward",
-      "title": "Free birthday dessert",
-      "subtitle": "Fridays Rewards",
-      "brand": {
-        "id": "tgi-fridays",
-        "name": "TGI Fridays",
-        "color": "#E4002B",
-        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/tgi-fridays.png"
-      },
-      "valueCents": 799,
-      "birthday": {
-        "signupLeadTimeDays": 14
-      },
-      "redemptionUrl": "https://tgifridays.com/loyalty/",
-      "verification": {
-        "status": "published",
-        "lastVerifiedAt": "2026-05-31"
-      },
-      "addedAt": "2026-05-31",
-      "tags": [
-        "dessert",
-        "casual",
-        "app",
-        "birthday"
-      ],
-      "claimType": "app",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/tgi-fridays-birthday-dessert.jpg"
     },
     {
       "id": "baskin-robbins-birthday-scoop",
@@ -728,7 +698,7 @@
       "id": "crumbl-birthday-cookie",
       "category": "birthday_reward",
       "title": "Free Single cookie voucher",
-      "subtitle": "Crumbl Rewards (Silver tier)",
+      "subtitle": "Silver tier required",
       "brand": {
         "id": "crumbl",
         "name": "Crumbl Cookies",
@@ -737,12 +707,12 @@
       },
       "valueCents": 499,
       "birthday": {
-        "signupLeadTimeDays": 1
+        "signupLeadTimeDays": 30
       },
       "redemptionUrl": "https://crumblcookies.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -757,7 +727,7 @@
     {
       "id": "jamba-birthday-smoothie",
       "category": "birthday_reward",
-      "title": "Free birthday smoothie",
+      "title": "Free birthday small smoothie",
       "subtitle": "Jamba Rewards - $10 spend",
       "brand": {
         "id": "jamba",
@@ -772,7 +742,7 @@
       "redemptionUrl": "https://www.jamba.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -818,7 +788,7 @@
       "id": "tropical-smoothie-birthday",
       "category": "birthday_reward",
       "title": "Free birthday smoothie",
-      "subtitle": "Supercharged-tier reward, Tropic Rewards",
+      "subtitle": "Tropic Rewards, tiered",
       "brand": {
         "id": "tropical-smoothie",
         "name": "Tropical Smoothie Cafe",
@@ -832,7 +802,7 @@
       "redemptionUrl": "https://www.tropicalsmoothiecafe.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-06-03"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -847,22 +817,22 @@
     {
       "id": "dq-birthday-blizzard",
       "category": "birthday_reward",
-      "title": "Free birthday Blizzard",
-      "subtitle": "Free Blizzard, any size, on your birthday",
+      "title": "Birthday Blizzard reward",
+      "subtitle": "DQ Rewards, offer varies",
       "brand": {
         "id": "dq",
         "name": "Dairy Queen",
         "color": "#D71920",
         "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/dq.png"
       },
-      "valueCents": 649,
+      "valueCents": null,
       "birthday": {
         "signupLeadTimeDays": 30
       },
       "redemptionUrl": "https://www.dairyqueen.com/en-us/rewards/",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -967,7 +937,7 @@
       "id": "mac-birthday-gift",
       "category": "birthday_reward",
       "title": "Birthday gift bag",
-      "subtitle": "MAC Lover (Silver+ tier)",
+      "subtitle": "MAC Lover, all tiers",
       "brand": {
         "id": "mac",
         "name": "MAC Cosmetics",
@@ -981,7 +951,7 @@
       "redemptionUrl": "https://www.maccosmetics.com/mac-lover",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-06-03"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -997,7 +967,7 @@
       "id": "kiehls-birthday",
       "category": "birthday_reward",
       "title": "Free Lip Balm + tier extras",
-      "subtitle": "Kiehl's Family Rewards",
+      "subtitle": "My Kiehl's Rewards",
       "brand": {
         "id": "kiehls",
         "name": "Kiehl's",
@@ -1011,7 +981,7 @@
       "redemptionUrl": "https://www.kiehls.com/my-kiehls-rewards.html",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -1025,8 +995,8 @@
     {
       "id": "sally-beauty-birthday",
       "category": "birthday_reward",
-      "title": "$5 reward + 2x points",
-      "subtitle": "Sally Beauty Rewards",
+      "title": "Extra $5 birthday reward",
+      "subtitle": "Preferred/Elite tiers",
       "brand": {
         "id": "sally",
         "name": "Sally Beauty",
@@ -1040,7 +1010,7 @@
       "redemptionUrl": "https://www.sallybeauty.com/rewards/",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -1082,65 +1052,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/bath-body-works-birthday.jpg"
     },
     {
-      "id": "body-shop-birthday-reward",
-      "category": "birthday_reward",
-      "title": "$10 birthday reward to spend",
-      "subtitle": "Love Your Body Club",
-      "brand": {
-        "id": "body-shop",
-        "name": "The Body Shop",
-        "color": "#004D33",
-        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/body-shop.png"
-      },
-      "valueCents": 1000,
-      "birthday": {
-        "signupLeadTimeDays": 30
-      },
-      "redemptionUrl": "https://www.thebodyshop.com/pages/lybc/love-your-body-club",
-      "verification": {
-        "status": "published",
-        "lastVerifiedAt": "2026-05-31"
-      },
-      "addedAt": "2026-05-31",
-      "tags": [
-        "bodycare",
-        "ethical",
-        "birthday"
-      ],
-      "claimType": "signup",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/body-shop-birthday-reward.jpg"
-    },
-    {
-      "id": "lush-birthday-voucher",
-      "category": "birthday_reward",
-      "title": "$10 birthday voucher",
-      "subtitle": "Lush Club Rewards",
-      "brand": {
-        "id": "lush",
-        "name": "Lush",
-        "color": "#000000",
-        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/lush.png"
-      },
-      "valueCents": 1000,
-      "birthday": {
-        "signupLeadTimeDays": 14
-      },
-      "redemptionUrl": "https://www.lush.com/us/en_us/l/club",
-      "verification": {
-        "status": "published",
-        "lastVerifiedAt": "2026-05-31"
-      },
-      "addedAt": "2026-05-31",
-      "tags": [
-        "bath",
-        "handmade",
-        "app",
-        "birthday"
-      ],
-      "claimType": "app",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/lush-birthday-voucher.jpg"
-    },
-    {
       "id": "elf-birthday-gift",
       "category": "birthday_reward",
       "title": "Free birthday gift",
@@ -1155,10 +1066,10 @@
       "birthday": {
         "signupLeadTimeDays": 14
       },
-      "redemptionUrl": "https://www.elfcosmetics.com/pages/e.l.f.-beauty-squad",
+      "redemptionUrl": "https://www.elfcosmetics.com/pages/elf-beauty-squad",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -1172,22 +1083,22 @@
     {
       "id": "origins-birthday",
       "category": "birthday_reward",
-      "title": "$10 off $25 birthday offer",
-      "subtitle": "Origins Rewards",
+      "title": "Free birthday gift",
+      "subtitle": "Gift varies by tier",
       "brand": {
         "id": "origins",
         "name": "Origins",
         "color": "#00573F",
         "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/origins.png"
       },
-      "valueCents": 1000,
+      "valueCents": null,
       "birthday": {
         "signupLeadTimeDays": 30
       },
       "redemptionUrl": "https://www.origins.com/origins-loyalty-marketing-page",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -1257,39 +1168,10 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/hot-topic-birthday-reward.jpg"
     },
     {
-      "id": "world-market-birthday",
-      "category": "birthday_reward",
-      "title": "$10-15 birthday coupon",
-      "subtitle": "World Market Rewards",
-      "brand": {
-        "id": "world-market",
-        "name": "World Market",
-        "color": "#4B2C20",
-        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/world-market.png"
-      },
-      "valueCents": 500,
-      "birthday": {
-        "signupLeadTimeDays": 14
-      },
-      "redemptionUrl": "https://www.worldmarket.com/rewards-landing-page.html",
-      "verification": {
-        "status": "published",
-        "lastVerifiedAt": "2026-05-31"
-      },
-      "addedAt": "2026-05-31",
-      "tags": [
-        "home",
-        "decor",
-        "birthday"
-      ],
-      "claimType": "signup",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/world-market-birthday.jpg"
-    },
-    {
       "id": "petsmart-birthday-points",
       "category": "birthday_reward",
       "title": "Birthday bonus points",
-      "subtitle": "1,000 pts + 2x on treats, Treats Rewards",
+      "subtitle": "1,000 pts + 2x treats",
       "brand": {
         "id": "petsmart",
         "name": "PetSmart",
@@ -1303,7 +1185,7 @@
       "redemptionUrl": "https://www.petsmart.com/learning-center/treats-rewards/petsmart-treats-rewards-birthday-and-gotcha-gift",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-06-03"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -1316,21 +1198,21 @@
     {
       "id": "old-navy-birthday",
       "category": "birthday_reward",
-      "title": "10-30% off birthday reward",
-      "subtitle": "Navyist Rewards",
+      "title": "Birthday bonus",
+      "subtitle": "Encore Rewards, details vary",
       "brand": {
         "id": "old-navy",
         "name": "Old Navy",
         "color": "#00377A"
       },
-      "valueCents": 500,
+      "valueCents": null,
       "birthday": {
         "signupLeadTimeDays": 7
       },
       "redemptionUrl": "https://oldnavy.gap.com/customerService/info.do?cid=1095422",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -1344,22 +1226,22 @@
     {
       "id": "gap-birthday",
       "category": "birthday_reward",
-      "title": "Birthday bonus gift + 15-20% off",
-      "subtitle": "Encore (Gap Good Rewards rebrand)",
+      "title": "Birthday bonus",
+      "subtitle": "Encore Rewards, details vary",
       "brand": {
         "id": "gap",
         "name": "Gap",
         "color": "#002F6C",
         "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/gap.png"
       },
-      "valueCents": 500,
+      "valueCents": null,
       "birthday": {
         "signupLeadTimeDays": 7
       },
       "redemptionUrl": "https://www.gap.com/customer-service/gap-good-rewards?cid=1099008",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-06-03"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -1460,7 +1342,7 @@
     {
       "id": "regal-birthday-popcorn",
       "category": "birthday_reward",
-      "title": "Free small birthday popcorn",
+      "title": "Free birthday popcorn",
       "subtitle": "Regal Crown Club",
       "brand": {
         "id": "regal",
@@ -1468,14 +1350,14 @@
         "color": "#FFB81C",
         "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/regal.png"
       },
-      "valueCents": 699,
+      "valueCents": null,
       "birthday": {
         "signupLeadTimeDays": 7
       },
       "redemptionUrl": "https://www.regmovies.com/regal-crown-club",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -1520,22 +1402,22 @@
     {
       "id": "chuck-e-cheese-birthday-club",
       "category": "birthday_reward",
-      "title": "30 free game minutes",
-      "subtitle": "Birthday Club",
+      "title": "Birthday Club reward",
+      "subtitle": "Reward details vary",
       "brand": {
         "id": "chuck-e-cheese",
         "name": "Chuck E. Cheese",
         "color": "#EE2722",
         "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/chuck-e-cheese.png"
       },
-      "valueCents": 1500,
+      "valueCents": null,
       "birthday": {
         "signupLeadTimeDays": 7
       },
       "redemptionUrl": "https://www.chuckecheese.com/birthdayclub/",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -1790,7 +1672,7 @@
       "id": "national-donut-day-2026",
       "category": "free_event",
       "title": "National Donut Day - Jun 5",
-      "subtitle": "Free donut at Dunkin' and Krispy Kreme",
+      "subtitle": "Free donuts at major chains",
       "brand": {
         "id": "dunkin",
         "name": "Dunkin'",
@@ -1804,7 +1686,7 @@
       "redemptionUrl": "https://news.dunkindonuts.com",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -1880,7 +1762,7 @@
       "id": "chick-fil-a-cow-appreciation-day-2026",
       "category": "free_event",
       "title": "Cow Appreciation Day - Jul 14",
-      "subtitle": "Free entree at Chick-fil-A, cow attire required",
+      "subtitle": "Cow attire may be required",
       "brand": {
         "id": "chick-fil-a",
         "name": "Chick-fil-A",
@@ -1894,7 +1776,7 @@
       "redemptionUrl": "https://www.chick-fil-a.com",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -2315,186 +2197,10 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/pf-changs-signup-edamame.jpg"
     },
     {
-      "id": "ulta-birthday-2x-points",
-      "category": "birthday_reward",
-      "title": "2x points, birthday month",
-      "subtitle": "Ultamate Rewards",
-      "brand": {
-        "id": "ulta",
-        "name": "Ulta Beauty",
-        "color": "#E91D63",
-        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/ulta.png"
-      },
-      "valueCents": 500,
-      "birthday": {
-        "signupLeadTimeDays": 0
-      },
-      "redemptionUrl": "https://www.ulta.com/rewards/birthday-gift",
-      "verification": {
-        "status": "published",
-        "lastVerifiedAt": "2026-05-31"
-      },
-      "addedAt": "2026-05-31",
-      "tags": [
-        "month-long",
-        "birthday-month",
-        "beauty",
-        "points"
-      ],
-      "claimType": "signup",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/ulta-birthday-2x-points.jpg"
-    },
-    {
-      "id": "outback-birthday-dessert-month",
-      "category": "birthday_reward",
-      "title": "Free dessert, month",
-      "subtitle": "Dine Rewards",
-      "brand": {
-        "id": "outback",
-        "name": "Outback Steakhouse",
-        "color": "#AF272F",
-        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/outback.png"
-      },
-      "valueCents": 999,
-      "birthday": {
-        "signupLeadTimeDays": 0
-      },
-      "redemptionUrl": "https://www.dine-rewards.com/",
-      "verification": {
-        "status": "published",
-        "lastVerifiedAt": "2026-05-31"
-      },
-      "addedAt": "2026-05-31",
-      "tags": [
-        "month-long",
-        "birthday-month",
-        "dining"
-      ],
-      "claimType": "signup",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/outback-birthday-dessert-month.jpg"
-    },
-    {
-      "id": "dq-birthday-monthly-blizzard",
-      "category": "birthday_reward",
-      "title": "Free Blizzard, month",
-      "subtitle": "Free Blizzard, any size, all birthday month",
-      "brand": {
-        "id": "dq",
-        "name": "Dairy Queen",
-        "color": "#D71920",
-        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/dq.png"
-      },
-      "valueCents": 599,
-      "birthday": {
-        "signupLeadTimeDays": 0
-      },
-      "redemptionUrl": "https://www.dairyqueen.com/en-us/rewards/",
-      "verification": {
-        "status": "published",
-        "lastVerifiedAt": "2026-05-31"
-      },
-      "addedAt": "2026-05-31",
-      "tags": [
-        "month-long",
-        "birthday-month",
-        "dessert"
-      ],
-      "claimType": "app",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/dq-birthday-monthly-blizzard.jpg"
-    },
-    {
-      "id": "build-a-bear-pay-your-age-month",
-      "category": "birthday_reward",
-      "title": "Pay-your-age Bear, all month",
-      "subtitle": "Bonus Club",
-      "brand": {
-        "id": "build-a-bear",
-        "name": "Build-A-Bear",
-        "color": "#E4002B",
-        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/build-a-bear.png"
-      },
-      "valueCents": 1500,
-      "birthday": {
-        "signupLeadTimeDays": 0
-      },
-      "redemptionUrl": "https://www.buildabear.com/birthday",
-      "verification": {
-        "status": "published",
-        "lastVerifiedAt": "2026-05-31"
-      },
-      "addedAt": "2026-05-31",
-      "tags": [
-        "month-long",
-        "birthday-month",
-        "kids"
-      ],
-      "claimType": "birthday",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/build-a-bear-pay-your-age-month.jpg"
-    },
-    {
-      "id": "bbw-birthday-reward-30-days",
-      "category": "birthday_reward",
-      "title": "Free body-care item, 30 days",
-      "subtitle": "My Bath & Body Works",
-      "brand": {
-        "id": "bbw",
-        "name": "Bath & Body Works",
-        "color": "#00205B",
-        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/bbw.png"
-      },
-      "valueCents": 995,
-      "birthday": {
-        "signupLeadTimeDays": 0
-      },
-      "redemptionUrl": "https://www.bathandbodyworks.com/loyalty-rewards",
-      "verification": {
-        "status": "published",
-        "lastVerifiedAt": "2026-05-31"
-      },
-      "addedAt": "2026-05-31",
-      "tags": [
-        "month-long",
-        "birthday-month",
-        "beauty"
-      ],
-      "claimType": "app",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/bbw-birthday-reward-30-days.jpg"
-    },
-    {
-      "id": "mac-birthday-2x-3x-points",
-      "category": "birthday_reward",
-      "title": "2x or 3x birthday points",
-      "subtitle": "MAC Lover",
-      "brand": {
-        "id": "mac",
-        "name": "MAC Cosmetics",
-        "color": "#000000",
-        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/mac.png"
-      },
-      "valueCents": 500,
-      "birthday": {
-        "signupLeadTimeDays": 0
-      },
-      "redemptionUrl": "https://www.maccosmetics.com/mac-lover",
-      "verification": {
-        "status": "published",
-        "lastVerifiedAt": "2026-05-31"
-      },
-      "addedAt": "2026-05-31",
-      "tags": [
-        "month-long",
-        "birthday-month",
-        "beauty",
-        "points"
-      ],
-      "claimType": "signup",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/mac-birthday-2x-3x-points.jpg"
-    },
-    {
       "id": "hot-topic-birthday-credit-45-days",
       "category": "birthday_reward",
       "title": "$5 credit, 45 days",
-      "subtitle": "Hot Cash",
+      "subtitle": "Hot Topic Rewards",
       "brand": {
         "id": "hot-topic",
         "name": "Hot Topic",
@@ -2508,7 +2214,7 @@
       "redemptionUrl": "https://www.hottopic.com/customer-service/hot-topic-rewards/",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -2520,53 +2226,24 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/hot-topic-birthday-credit-45-days.jpg"
     },
     {
-      "id": "amc-birthday-popcorn-month",
-      "category": "birthday_reward",
-      "title": "Free large popcorn, month",
-      "subtitle": "AMC Stubs",
-      "brand": {
-        "id": "amc",
-        "name": "AMC Theatres",
-        "color": "#E2231A",
-        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/amc.png"
-      },
-      "valueCents": 1099,
-      "birthday": {
-        "signupLeadTimeDays": 0
-      },
-      "redemptionUrl": "https://www.amctheatres.com/amcstubs",
-      "verification": {
-        "status": "published",
-        "lastVerifiedAt": "2026-05-31"
-      },
-      "addedAt": "2026-05-31",
-      "tags": [
-        "month-long",
-        "birthday-month",
-        "movies"
-      ],
-      "claimType": "signup",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/amc-birthday-popcorn-month.jpg"
-    },
-    {
       "id": "world-market-birthday-15-off",
       "category": "birthday_reward",
-      "title": "15% off birthday-month purchase",
-      "subtitle": "World Market Rewards",
+      "title": "Birthday offer",
+      "subtitle": "Birthday offer varies",
       "brand": {
         "id": "world-market",
         "name": "World Market",
         "color": "#4B2C20",
         "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/world-market.png"
       },
-      "valueCents": 750,
+      "valueCents": null,
       "birthday": {
         "signupLeadTimeDays": 0
       },
       "redemptionUrl": "https://www.worldmarket.com/rewards-landing-page.html",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -2607,53 +2284,24 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/pf-changs-birthday-app-month.jpg"
     },
     {
-      "id": "dsw-vip-birthday-bonus-month",
-      "category": "birthday_reward",
-      "title": "$5 birthday bonus, month",
-      "subtitle": "DSW VIP Elite",
-      "brand": {
-        "id": "dsw",
-        "name": "DSW",
-        "color": "#E4002B",
-        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/dsw.png"
-      },
-      "valueCents": 500,
-      "birthday": {
-        "signupLeadTimeDays": 0
-      },
-      "redemptionUrl": "https://www.dsw.com/vip",
-      "verification": {
-        "status": "published",
-        "lastVerifiedAt": "2026-05-31"
-      },
-      "addedAt": "2026-05-31",
-      "tags": [
-        "month-long",
-        "birthday-month",
-        "retail"
-      ],
-      "claimType": "signup",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/dsw-vip-birthday-bonus-month.jpg"
-    },
-    {
       "id": "buffalo-wild-wings-birthday-wings",
       "category": "birthday_reward",
-      "title": "Free 6 wings, birthday",
-      "subtitle": "Boneless wings with $10 purchase, Blazin' Rewards",
+      "title": "Birthday wings reward",
+      "subtitle": "Purchase may be required",
       "brand": {
         "id": "bww",
         "name": "Buffalo Wild Wings",
         "color": "#FFC72C",
         "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/bww.png"
       },
-      "valueCents": 800,
+      "valueCents": null,
       "birthday": {
         "signupLeadTimeDays": 30
       },
       "redemptionUrl": "https://www.buffalowildwings.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -2667,22 +2315,22 @@
     {
       "id": "jersey-mikes-birthday-sub",
       "category": "birthday_reward",
-      "title": "Free sub plus drink",
-      "subtitle": "Regular sub and 22oz drink via Shore Points",
+      "title": "Free birthday sub",
+      "subtitle": "Prior sub purchase required",
       "brand": {
         "id": "jersey-mikes",
         "name": "Jersey Mike's",
         "color": "#00543D",
         "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/jersey-mikes.png"
       },
-      "valueCents": 1300,
+      "valueCents": 900,
       "birthday": {
         "signupLeadTimeDays": 14
       },
       "redemptionUrl": "https://www.jerseymikes.com/my-mikes",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -2697,7 +2345,7 @@
       "id": "firehouse-subs-birthday-sub",
       "category": "birthday_reward",
       "title": "Free medium sub",
-      "subtitle": "Medium classic sub with $1 minimum, Firehouse Rewards",
+      "subtitle": "With any purchase",
       "brand": {
         "id": "firehouse-subs",
         "name": "Firehouse Subs",
@@ -2711,7 +2359,7 @@
       "redemptionUrl": "https://www.firehousesubs.com/firehouse-rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -2754,8 +2402,8 @@
     {
       "id": "hooters-birthday-wings",
       "category": "birthday_reward",
-      "title": "Free 10 boneless wings",
-      "subtitle": "Hooters eClub",
+      "title": "Free 10 wings",
+      "subtitle": "HootClub Rewards",
       "brand": {
         "id": "hooters",
         "name": "Hooters",
@@ -2766,10 +2414,10 @@
       "birthday": {
         "signupLeadTimeDays": 14
       },
-      "redemptionUrl": "https://www.hooters.com/eclub",
+      "redemptionUrl": "https://www.hooters.com/about/app",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -2811,7 +2459,7 @@
       "id": "chipotle-birthday-treat",
       "category": "birthday_reward",
       "title": "Free chips, guac, queso, or drink",
-      "subtitle": "Chips, guac, queso, or drink with $5+ app order",
+      "subtitle": "$5+ app order",
       "brand": {
         "id": "chipotle",
         "name": "Chipotle",
@@ -2825,7 +2473,7 @@
       "redemptionUrl": "https://www.chipotle.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-06-03"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -2837,53 +2485,24 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/chipotle-birthday-treat.jpg"
     },
     {
-      "id": "wendys-birthday-frosty",
-      "category": "birthday_reward",
-      "title": "Free birthday Frosty",
-      "subtitle": "Small Frosty or Frosty-ccino, Wendy's Rewards",
-      "brand": {
-        "id": "wendys",
-        "name": "Wendy's",
-        "color": "#E2203D",
-        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/wendys.png"
-      },
-      "valueCents": 250,
-      "birthday": {
-        "signupLeadTimeDays": 14
-      },
-      "redemptionUrl": "https://www.wendys.com/rewards",
-      "verification": {
-        "status": "published",
-        "lastVerifiedAt": "2026-05-31"
-      },
-      "addedAt": "2026-05-31",
-      "tags": [
-        "ice-cream",
-        "app",
-        "birthday"
-      ],
-      "claimType": "app",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/wendys-birthday-frosty.jpg"
-    },
-    {
       "id": "moes-birthday-burrito",
       "category": "birthday_reward",
-      "title": "Free birthday entree",
-      "subtitle": "Rockin' Rewards birthday entree",
+      "title": "Free birthday queso or guac",
+      "subtitle": "Cup of queso or guac, Moe Rewards",
       "brand": {
         "id": "moes",
         "name": "Moe's Southwest Grill",
         "color": "#E2231A",
         "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/moes.png"
       },
-      "valueCents": 900,
+      "valueCents": 400,
       "birthday": {
         "signupLeadTimeDays": 30
       },
       "redemptionUrl": "https://www.moes.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -2898,7 +2517,7 @@
       "id": "qdoba-birthday-queso",
       "category": "birthday_reward",
       "title": "Free chips and queso",
-      "subtitle": "Birthday queso & chips, Qdoba Rewards",
+      "subtitle": "Queso; Gold gets entree",
       "brand": {
         "id": "qdoba",
         "name": "Qdoba",
@@ -2912,7 +2531,7 @@
       "redemptionUrl": "https://www.qdoba.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -2927,7 +2546,7 @@
       "id": "noodles-birthday-dessert",
       "category": "birthday_reward",
       "title": "Free birthday dessert",
-      "subtitle": "Classic-tier Rice Krispy via Noodles Rewards",
+      "subtitle": "Classic dessert; tiered",
       "brand": {
         "id": "noodles",
         "name": "Noodles & Company",
@@ -2941,7 +2560,7 @@
       "redemptionUrl": "https://www.noodles.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -2983,8 +2602,8 @@
     {
       "id": "carvel-birthday-cone",
       "category": "birthday_reward",
-      "title": "Free soft-serve cone",
-      "subtitle": "Fudgie Fanatics",
+      "title": "Free small cone or cup",
+      "subtitle": "Carvel Fan Club",
       "brand": {
         "id": "carvel",
         "name": "Carvel",
@@ -2998,7 +2617,7 @@
       "redemptionUrl": "https://www.carvel.com/join-fudgie-fanatics",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -3040,7 +2659,7 @@
       "id": "whataburger-birthday-pick",
       "category": "birthday_reward",
       "title": "Free birthday pick",
-      "subtitle": "Whataburger Jr, taquito, biscuit, or fries via app",
+      "subtitle": "Select birthday item",
       "brand": {
         "id": "whataburger",
         "name": "Whataburger",
@@ -3054,7 +2673,7 @@
       "redemptionUrl": "https://whataburger.com/Rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -3068,22 +2687,22 @@
     {
       "id": "subway-birthday-cookie",
       "category": "birthday_reward",
-      "title": "Free birthday cookie",
-      "subtitle": "MVP Pro birthday cookie via Subway Rewards",
+      "title": "Birthday surprise",
+      "subtitle": "Sub Club, specific item may vary",
       "brand": {
         "id": "subway",
         "name": "Subway",
         "color": "#008C15",
         "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/subway.png"
       },
-      "valueCents": 200,
+      "valueCents": null,
       "birthday": {
         "signupLeadTimeDays": 14
       },
       "redemptionUrl": "https://www.subway.com/en-us/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -3097,22 +2716,22 @@
     {
       "id": "panda-express-birthday-entree",
       "category": "birthday_reward",
-      "title": "Free birthday entree",
-      "subtitle": "Birthday entree with qualifying purchase, Panda Rewards",
+      "title": "Birthday gift with purchase",
+      "subtitle": "Purchase-based gift",
       "brand": {
         "id": "panda-express",
         "name": "Panda Express",
         "color": "#D2232A",
         "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/panda-express.png"
       },
-      "valueCents": 500,
+      "valueCents": null,
       "birthday": {
         "signupLeadTimeDays": 14
       },
       "redemptionUrl": "https://www.pandaexpress.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -3124,52 +2743,24 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/panda-express-birthday-entree.jpg"
     },
     {
-      "id": "dsw-birthday-discount",
-      "category": "birthday_reward",
-      "title": "Birthday gift at DSW",
-      "subtitle": "DSW VIP",
-      "brand": {
-        "id": "dsw",
-        "name": "DSW",
-        "color": "#E4002B",
-        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/dsw.png"
-      },
-      "valueCents": 500,
-      "birthday": {
-        "signupLeadTimeDays": 14
-      },
-      "redemptionUrl": "https://www.dsw.com/vip",
-      "verification": {
-        "status": "published",
-        "lastVerifiedAt": "2026-05-31"
-      },
-      "addedAt": "2026-05-31",
-      "tags": [
-        "shopping",
-        "birthday"
-      ],
-      "claimType": "signup",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/dsw-birthday-discount.jpg"
-    },
-    {
       "id": "target-circle-birthday",
       "category": "birthday_reward",
-      "title": "5% off birthday reward",
-      "subtitle": "Target Circle",
+      "title": "Birthday gift",
+      "subtitle": "Birthday surprise varies",
       "brand": {
         "id": "target",
         "name": "Target",
         "color": "#CC0000",
         "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/target.png"
       },
-      "valueCents": 500,
+      "valueCents": null,
       "birthday": {
         "signupLeadTimeDays": 7
       },
       "redemptionUrl": "https://www.target.com/circle",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -3183,7 +2774,7 @@
       "id": "noodles-signup-entree",
       "category": "signup_bonus",
       "title": "Free entree on signup",
-      "subtitle": "Free regular entree after first $10 order, 30-day window",
+      "subtitle": "After first $10 order",
       "brand": {
         "id": "noodles",
         "name": "Noodles & Company",
@@ -3197,7 +2788,7 @@
       "redemptionUrl": "https://www.noodles.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -3212,7 +2803,7 @@
       "id": "qdoba-signup-queso",
       "category": "signup_bonus",
       "title": "Free queso and chips on signup",
-      "subtitle": "Welcome reward with entree purchase, 60-day expiry",
+      "subtitle": "With entree purchase",
       "brand": {
         "id": "qdoba",
         "name": "Qdoba",
@@ -3226,7 +2817,7 @@
       "redemptionUrl": "https://www.qdoba.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -3382,7 +2973,7 @@
       "id": "pinchme-free-samples",
       "category": "free_sample",
       "title": "Free monthly sample box",
-      "subtitle": "Pick samples every Sample Tuesday after a quick profile",
+      "subtitle": "Sample Tuesday picks",
       "brand": {
         "id": "pinchme",
         "name": "PINCHme",
@@ -3396,7 +2987,7 @@
       "redemptionUrl": "https://www.pinchme.com/signup",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -3411,7 +3002,7 @@
       "id": "pg-good-everyday-samples",
       "category": "free_sample",
       "title": "Free P&G product samples",
-      "subtitle": "Rotating Tide, Cascade, Pepto samples plus coupons",
+      "subtitle": "Samples plus coupons",
       "brand": {
         "id": "pg-good-everyday",
         "name": "P&G Good Everyday",
@@ -3425,7 +3016,7 @@
       "redemptionUrl": "https://www.pggoodeveryday.com/",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -3439,7 +3030,7 @@
       "id": "send-me-a-sample-alexa",
       "category": "free_sample",
       "title": "Free samples via voice",
-      "subtitle": "Order rotating brand samples through Alexa or Google, shipped free",
+      "subtitle": "Voice-ordered samples",
       "brand": {
         "id": "send-me-a-sample",
         "name": "Send Me a Sample",
@@ -3453,7 +3044,7 @@
       "redemptionUrl": "https://sendmeasample.com/",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -3468,7 +3059,7 @@
       "id": "sample-source-box",
       "category": "free_sample",
       "title": "SampleSource sample box",
-      "subtitle": "Spring and fall curated full-size product boxes",
+      "subtitle": "Seasonal product boxes",
       "brand": {
         "id": "sample-source",
         "name": "SampleSource",
@@ -3482,7 +3073,7 @@
       "redemptionUrl": "https://www.samplesource.com/",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -3497,7 +3088,7 @@
       "id": "national-cookie-day-2026",
       "category": "free_event",
       "title": "National Cookie Day - Dec 4",
-      "subtitle": "Free chocolate chip cookie at Great American Cookies",
+      "subtitle": "Free cookie offers",
       "brand": {
         "id": "great-american-cookies",
         "name": "Great American Cookies",
@@ -3511,7 +3102,7 @@
       "redemptionUrl": "https://www.greatamericancookies.com",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -3527,7 +3118,7 @@
       "id": "national-bagel-day-2027",
       "category": "free_event",
       "title": "National Bagel Day - Jan 15",
-      "subtitle": "Free bagel with shmear at Einstein Bros",
+      "subtitle": "Free bagel with shmear",
       "brand": {
         "id": "einstein-bros",
         "name": "Einstein Bros Bagels",
@@ -3541,7 +3132,7 @@
       "redemptionUrl": "https://www.einsteinbros.com",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-05-31"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-05-31",
       "tags": [
@@ -3614,36 +3205,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/chick-fil-a-birthday-reward.jpg"
     },
     {
-      "id": "taco-bell-birthday-reward",
-      "category": "birthday_reward",
-      "title": "Free birthday item",
-      "subtitle": "Crunchy Taco or rotating reward, Taco Bell Rewards",
-      "brand": {
-        "id": "taco-bell",
-        "name": "Taco Bell",
-        "color": "#702082",
-        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/taco-bell.png"
-      },
-      "valueCents": 199,
-      "birthday": {
-        "signupLeadTimeDays": 30
-      },
-      "redemptionUrl": "https://www.tacobell.com/rewards",
-      "verification": {
-        "status": "published",
-        "lastVerifiedAt": "2026-06-03"
-      },
-      "addedAt": "2026-06-03",
-      "tags": [
-        "fast-food",
-        "taco",
-        "app",
-        "birthday"
-      ],
-      "claimType": "app",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/taco-bell-birthday-reward.jpg"
-    },
-    {
       "id": "olive-garden-birthday-dessert",
       "category": "birthday_reward",
       "title": "Free birthday dessert",
@@ -3703,36 +3264,6 @@
       ],
       "claimType": "app",
       "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/sonic-birthday-reward.jpg"
-    },
-    {
-      "id": "burger-king-birthday-reward",
-      "category": "birthday_reward",
-      "title": "Free birthday item + 2x Crowns",
-      "subtitle": "Royal Perks, 30-day window",
-      "brand": {
-        "id": "burger-king",
-        "name": "Burger King",
-        "color": "#D62300",
-        "logoUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/logos/burger-king.png"
-      },
-      "valueCents": 399,
-      "birthday": {
-        "signupLeadTimeDays": 14
-      },
-      "redemptionUrl": "https://www.bk.com/royalperks",
-      "verification": {
-        "status": "published",
-        "lastVerifiedAt": "2026-06-03"
-      },
-      "addedAt": "2026-06-03",
-      "tags": [
-        "fast-food",
-        "burger",
-        "app",
-        "birthday"
-      ],
-      "claimType": "app",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Andrewegao/c4f8d9e1a3b7c2f6@master/images/burger-king-birthday-reward.jpg"
     },
     {
       "id": "cvs-birthday-extrabucks",
@@ -3796,7 +3327,7 @@
       "id": "national-pizza-day-2027",
       "category": "free_event",
       "title": "National Pizza Day - Feb 9",
-      "subtitle": "Free large pizza at Pizza Hut (next-order)",
+      "subtitle": "Free next-order pizza",
       "brand": {
         "id": "pizza-hut",
         "name": "Pizza Hut",
@@ -3810,7 +3341,7 @@
       "redemptionUrl": "https://www.pizzahut.com/",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-06-03"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-06-03",
       "tags": [
@@ -3856,7 +3387,7 @@
       "id": "national-cheeseburger-day-2026",
       "category": "free_event",
       "title": "National Cheeseburger Day - Sep 18",
-      "subtitle": "Free bacon cheeseburger at BK Royal Perks",
+      "subtitle": "Free cheeseburger promos",
       "brand": {
         "id": "burger-king",
         "name": "Burger King",
@@ -3870,7 +3401,7 @@
       "redemptionUrl": "https://www.bk.com/royalperks",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-06-03"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-06-03",
       "tags": [
@@ -3887,7 +3418,7 @@
       "id": "national-taco-day-2026",
       "category": "free_event",
       "title": "National Taco Day - Oct 6",
-      "subtitle": "Free tacos at Taco Bell + Jack in the Box",
+      "subtitle": "Free taco promos",
       "brand": {
         "id": "taco-bell",
         "name": "Taco Bell",
@@ -3901,7 +3432,7 @@
       "redemptionUrl": "https://www.tacobell.com/rewards",
       "verification": {
         "status": "published",
-        "lastVerifiedAt": "2026-06-03"
+        "lastVerifiedAt": "2026-06-17"
       },
       "addedAt": "2026-06-03",
       "tags": [
